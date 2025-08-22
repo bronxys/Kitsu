@@ -1,0 +1,37 @@
+\////////////////////////////\
+A INSTALAÇÃO VAI SER FEITA MANUALMENTE
+kitsu md
+
+1: termux-setup-storage
+
+2: cd /sdcard/KITSU-MD
+ou
+cd /sdcard/Download/KITSU-MD
+
+3: apt-get upgrade
+
+4: apt-get update
+
+5: apt upgrade -y
+
+6: apt update -y
+
+7: apt install nodejs -y 
+
+8: apt install nodejs-lts -y 
+
+9: apt install ffmpeg -y
+
+10: apt install wget -y 
+
+11: apt install git -y
+
+12: pkg update && pkg upgrade -y
+
+13: pkg install -y curl git build-essential
+
+14: pkg install -y nodejs
+
+15: npm start
+
+///KITSU MD\\\

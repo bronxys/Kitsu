@@ -1,0 +1,78 @@
+[
+  {
+    "name": "𝐒𝐀𝐍𝐃𝐑𝐎-𝐂𝐎𝐍𝐒𝐔𝐋𝐓𝐀𝐒💻⚠️",
+    "groupId": "120363400250345169@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporno": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "GRUPO CRIADO PARA FAZER CONSULTAS SEJA BEM-VINDO🫡\n\n- *COMANDOS DISPONÍVEIS NO MOMENTO*\n\n╔♡∞*♡♡∞:｡.｡💔｡.｡:∞♡*♡:∞♡╗\n╠═⪩⟨💔𝐏𝐔𝐗𝐀𝐑-𝐃𝐀𝐃𝐎𝐒⟩\n╚♡∞*♡♡∞:｡.｡💔｡.｡:∞♡*♡:∞♡╝\n╭══════════════ ⪩\n│💔⃤/nome (nome)\n│💔⃤/nome2 (nome)\n│💔⃤/cpf (numero)\n│💔⃤/cpf2 (numero)\n│💔⃤/cpf3 (numero)\n│💔⃤/cpf4 (numero)\n│💔⃤/mae (nome)\n│💔⃤/placa (numero)\n╰═══════════════ ⪨\n\n> SANDRO MD - SANDRO BOT",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": true
+  }
+]

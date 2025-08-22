@@ -1,0 +1,83 @@
+[
+  {
+    "name": "★ᴅɪᴛᴀᴅᴜʀᴀ-ɢᴀʏꜱɪꜱᴛᴀ★",
+    "groupId": "120363379556834051@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "SEJA MUITO BEM-VINDO(A)!🏳️‍🌈\n_se apresente com:_\n*FOTO (visualização única)*\n*NOME:*\n*APELIDO:*\n*IDADE:*\n*SEXUALIDADE*\n*ESTADO:*\n_OBRIGATÓRIO_",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": true,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "SEJA MUITO BEM-VINDO(A)!🏳️‍🌈\n_se apresente com:_\n*FOTO (visualização única)*\n*NOME:*\n*Pronomes:*\n*APELIDO:*\n*IDADE:*\n*SEXUALIDADE*\n*ESTADO:*\n_OBRIGATÓRIO_",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": true,
+    "autoresposta": true,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false
+  }
+]
