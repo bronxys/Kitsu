@@ -18,11 +18,11 @@ apt install nodejs-lts -y
 apt install ffmpeg -y
 apt install wget -y 
 apt install git -y
-echo $CYAN"tudo certo pode dar npm start, escanear o código e se divirta com o bot :)"
+echo $GREEN"tudo certo pode dar npm start, escanear o código e se divirta com o bot :)"
 fi
 if [ "$inp" = "n" ]; then
-    echo $CYAN"Jae então, se divirta tentando descobrir as dependências sozinho e manualmente :)"
+    echo $RED"Jae então, se divirta tentando descobrir as dependências sozinho e manualmente :)"
     exit
 fi
 
-# ® COPYRIGHT BY: KAUÃ DEV
+# ® COPYRIGHT BY:YURI MODZ 

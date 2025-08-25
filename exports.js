@@ -1,1 +1,261 @@
-const _0x31be4e=_0x5b3a;(function(_0x5d471b,_0x2909c3){const _0x47f66b=_0x5b3a,_0x57f81e=_0x5d471b();while(!![]){try{const _0x11dc39=-parseInt(_0x47f66b(0x14c))/0x1+-parseInt(_0x47f66b(0x12f))/0x2+-parseInt(_0x47f66b(0x168))/0x3*(parseInt(_0x47f66b(0x146))/0x4)+parseInt(_0x47f66b(0x155))/0x5+parseInt(_0x47f66b(0x14a))/0x6+parseInt(_0x47f66b(0x18b))/0x7+parseInt(_0x47f66b(0x12a))/0x8;if(_0x11dc39===_0x2909c3)break;else _0x57f81e['push'](_0x57f81e['shift']());}catch(_0xc48660){_0x57f81e['push'](_0x57f81e['shift']());}}}(_0x500c,0xe79e8));const {'default':makeWASocket,downloadContentFromMessage,fetchLatestBaileysVersion,useMultiFileAuthState,makeInMemoryStore,DisconnectReason,WAGroupMetadata,relayWAMessage,MediaPathMap,mentionedJid,processTime,MediaType,Browser,MessageType,Presence,Mimetype,Browsers,delay,MessageRetryMap}=require(_0x31be4e(0x164)),{Boom}=require(_0x31be4e(0x166)),AssemblyAI=require(_0x31be4e(0x18a)),axios=require(_0x31be4e(0x135)),fs=require(_0x31be4e(0x140)),cheerio=require(_0x31be4e(0x18c)),crypto=require('crypto'),util=require(_0x31be4e(0x170)),PhoneNumber=require(_0x31be4e(0x153)),chalk=require(_0x31be4e(0x163)),path=require(_0x31be4e(0x175)),{randomBytes}=require('crypto'),P=require('pino'),NodeCache=require(_0x31be4e(0x149)),linkfy=require(_0x31be4e(0x16e)),request=require(_0x31be4e(0x14d)),ms=require('ms'),os=require('os'),ffmpeg=require(_0x31be4e(0x161)),fetch=require(_0x31be4e(0x148)),qrterminal=require(_0x31be4e(0x167)),{exec,spawn,execSync}=require(_0x31be4e(0x188)),moment=require(_0x31be4e(0x186)),colors=require('colors'),yts=require(_0x31be4e(0x179)),infoSystem=require('os'),{EmojiAPI}=require(_0x31be4e(0x16d)),emoji=new EmojiAPI(),time=moment['tz'](_0x31be4e(0x13f))[_0x31be4e(0x13d)]('HH:mm:ss'),hora=moment['tz'](_0x31be4e(0x13f))[_0x31be4e(0x13d)]('HH:mm:ss'),date=moment['tz'](_0x31be4e(0x13f))[_0x31be4e(0x13d)]('DD/MM/YYYY'),webp_mp4=require(_0x31be4e(0x13e)),vip=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)]('./database/usuarios/premium.json')),{sendVideoAsSticker,sendImageAsSticker}=require(_0x31be4e(0x129)),{sendVideoAsSticker2,sendImageAsSticker2}=require('./arquivos/sticker/rename2.js'),{arcloud}=require(_0x31be4e(0x127)),{addLimit,getLimit}=require(_0x31be4e(0x15b)),{addBanned,unBanned,BannedExpired,cekBannedUser}=require(_0x31be4e(0x14e)),{validmove,setGame}=require(_0x31be4e(0x173)),{addComandosId,deleteComandos,getComandoBlock,getComandos,addComandos}=require(_0x31be4e(0x132)),{palavrasANA,quizanimais,enigmaArchive,garticArchives,whatMusicAr}=require(_0x31be4e(0x147)),{wait,getExtension,generateMessageID,getMembros,getGroupAdmins,getRandom,banner,banner2,banner3,temporizador,chyt,getBuffer,fetchJson,fetchText,createExif,getBase64,convertSticker,upload,nit,getpc,supre,recognize}=require('./arquivos/funcoes/functions.js'),{writeExifImg}=require('./arquivos/sticker/exif.js'),{writeExif2}=require('./arquivos/sticker/exif2.js'),{infoClima}=require('./arquivos/funcoes/infoclima.js'),{isFiltered,addFilter}=require(_0x31be4e(0x174)),{MultiDownload}=require(_0x31be4e(0x121)),pushnames=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x131))),rgtake=JSON['parse'](fs[_0x31be4e(0x136)](_0x31be4e(0x142))),sotoy=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x15a))),piadas=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)]('./arquivos/json/piadas.json')),countMessage=JSON[_0x31be4e(0x17c)](fs['readFileSync']('./settings/media/countmsg.json')),comandos=JSON['parse'](fs[_0x31be4e(0x136)](_0x31be4e(0x154))),daily=JSON['parse'](fs[_0x31be4e(0x136)](_0x31be4e(0x180))),nescessario=JSON['parse'](fs[_0x31be4e(0x136)]('./settings/nescessario.json')),premium=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x16c))),ban=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)]('./database/usuarios/banned.json')),muted=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x11e))),limitefll=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x122))),joguinhodavelhajs=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x13b))),aluguel=JSON['parse'](fs[_0x31be4e(0x136)](_0x31be4e(0x139))),grupos=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x15d))),chaves=JSON['parse'](fs[_0x31be4e(0x136)]('./database/grupos/aluguel/chaves.json')),{insert,response}=require('./arquivos/funcoes/simi.js'),{randomCantadas}=require(_0x31be4e(0x181)),joguinhodavelhajs2=JSON[_0x31be4e(0x17c)](fs['readFileSync'](_0x31be4e(0x15f))),autorpg=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x120))),sabrpg=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x182))),bcbet=JSON['parse'](fs['readFileSync']('./database/usuarios/SystemRPG/1xbcbet.json')),minerar=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)]('./database/usuarios/SystemRPG/minerar.json')),rg_pescaria=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x138))),pescaria=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)]('./database/usuarios/SystemRPG/pescaria.json')),coderpg=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x184))),elitepasse=JSON[_0x31be4e(0x17c)](fs['readFileSync'](_0x31be4e(0x15c))),cavalosrpg=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x185))),galosrpg=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x12e))),roubosrpg=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x11f))),antispam=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x17b))),anotar=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)](_0x31be4e(0x16b))),setting=JSON['parse'](fs[_0x31be4e(0x136)](_0x31be4e(0x158))),logoslink=JSON[_0x31be4e(0x17c)](fs['readFileSync']('./settings/links_img.json')),Limit_CMD=JSON[_0x31be4e(0x17c)](fs['readFileSync'](_0x31be4e(0x156))),ftmenu=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)]('./settings/logos.json')),black_=JSON[_0x31be4e(0x17c)](fs[_0x31be4e(0x136)]('./database/grupos/avisos.json')),level2=JSON[_0x31be4e(0x17c)](fs['readFileSync'](_0x31be4e(0x128))),votacao=JSON[_0x31be4e(0x17c)](fs['readFileSync']('./database/func/votacao/voting.json')),{linguagem,mess,getInfo}=require(_0x31be4e(0x162)),{psycatgames}=require('./arquivos/funcoes/psycatgames.js'),{destrava,destrava2}=require(_0x31be4e(0x12b)),{tabela}=require(_0x31be4e(0x176)),{conselhob}=require(_0x31be4e(0x17e)),{fatos}=require(_0x31be4e(0x144)),{palavrasc}=require('./arquivos/js/conselhos.js'),{getMinesPositions,MinesHelp}=require(_0x31be4e(0x18e)),mines=JSON['parse'](fs[_0x31be4e(0x136)]('./database/grupos/games/mines.json'));function DLT_FL(_0x37f2d9){const _0x51f217=_0x31be4e;try{fs[_0x51f217(0x17a)](_0x37f2d9);}catch(_0x23b885){}}const convertBytes=function(_0x422919){const _0x9df9fe=_0x31be4e,_0x3a59bb=['Bytes','KB','MB','GB','TB'];if(_0x422919==0x0)return'n/a';const _0x438400=parseInt(Math[_0x9df9fe(0x12d)](Math[_0x9df9fe(0x159)](_0x422919)/Math['log'](0x400)));if(_0x438400==0x0)return _0x422919+'\x20'+_0x3a59bb[_0x438400];return(_0x422919/Math[_0x9df9fe(0x169)](0x400,_0x438400))['toFixed'](0x1)+'\x20'+_0x3a59bb[_0x438400];};function ANT_LTR_MD_EMJ(_0xc5610){const _0x389beb=_0x31be4e;for(let _0x39f771=0x0,_0x14c461=_0xc5610[_0x389beb(0x165)];_0x39f771<_0x14c461;_0x39f771++){if(_0xc5610[_0x389beb(0x14f)](_0x39f771)>0xff)return!![];}return![];}function kyun(_0x3541ea){const _0x13ba06=_0x31be4e;function _0x3aeb5e(_0x28cac7){return(_0x28cac7<0xa?'0':'')+_0x28cac7;};var _0x39179c=Math[_0x13ba06(0x12d)](_0x3541ea/(0x3c*0x3c)%0x18),_0x368655=Math['floor'](_0x3541ea%(0x3c*0x3c)/0x3c),_0x3a6100=Math[_0x13ba06(0x12d)](_0x3541ea%0x3c);return _0x3aeb5e(_0x39179c)+_0x13ba06(0x13c)+_0x3aeb5e(_0x368655)+'\x20minutos\x20e\x20'+_0x3aeb5e(_0x3a6100)+_0x13ba06(0x177);}function TimeCount(_0xdecfad){const _0x582efb=_0x31be4e;function _0x15ad26(_0xd7851f){return(_0xd7851f<0xa?'0':'')+_0xd7851f;};var _0x56e894=Math[_0x582efb(0x12d)](_0xdecfad/(0x3c*0x3c)/0x18),_0x45559a=Math[_0x582efb(0x12d)](_0xdecfad/(0x3c*0x3c)%0x18),_0x142e03=Math[_0x582efb(0x12d)](_0xdecfad%(0x3c*0x3c)/0x3c),_0xf6799a=Math[_0x582efb(0x12d)](_0xdecfad%0x3c);return _0x15ad26(_0x56e894)+_0x582efb(0x126)+_0x15ad26(_0x45559a)+_0x582efb(0x124)+_0x15ad26(_0x142e03)+_0x582efb(0x18f)+_0x15ad26(_0xf6799a)+_0x582efb(0x11d);}const shuffle=_0x50fd14=>{const _0x4291c2=_0x31be4e;palavra=_0x50fd14+'\x20',armax=[];for(i=0x0;i<palavra['length'];i++){armax['push']({'l':palavra['split'](palavra[_0x4291c2(0x143)](i+0x1))[0x0][_0x4291c2(0x143)](i)});}shuffleProcess='',total_armax=armax[_0x4291c2(0x165)];for(a=0x0;a<total_armax;a++){toDoRandom=Math[_0x4291c2(0x12d)](Math[_0x4291c2(0x141)]()*armax['length']),shuffleProcess+=armax[toDoRandom]['l'],armax[_0x4291c2(0x125)](toDoRandom,0x1);}return shuffleProcess;},getFileBuffer=async(_0x2f64a3,_0xa4f6e5)=>{const _0x517ad5=await downloadContentFromMessage(_0x2f64a3,_0xa4f6e5);let _0x3a6ecf=Buffer['from']([]);for await(const _0x3517eb of _0x517ad5){_0x3a6ecf=Buffer['concat']([_0x3a6ecf,_0x3517eb]);}return _0x3a6ecf;},sleep=async _0x2fe605=>{return new Promise(_0x5cb2a0=>setTimeout(_0x5cb2a0,_0x2fe605));},enviarfiguUrl=async(_0x2a65b7,_0x1657f6,_0x3a3176,_0x5dc53f)=>{const _0x420fb8=_0x31be4e;ranp=getRandom('.gif'),rano=getRandom(_0x420fb8(0x187)),ini_buffer=''+_0x3a3176,exec('wget\x20'+ini_buffer+'\x20-O\x20'+ranp+'\x20&&\x20ffmpeg\x20-i\x20'+ranp+_0x420fb8(0x15e)+rano,_0x5cc3bd=>{const _0x4b8e09=_0x420fb8;DLT_FL(ranp),buff=fs[_0x4b8e09(0x136)](rano),_0x2a65b7['sendMessage'](_0x1657f6,{'sticker':buff},{'quoted':_0x5dc53f})[_0x4b8e09(0x133)](()=>{const _0x1a9143=_0x4b8e09;return console[_0x1a9143(0x159)](_0x1a9143(0x18d));}),DLT_FL(rano);});},sendPoll=(_0x33862a,_0x59775a,_0x1fdbc0='',_0x5e85dd=[],_0x1fe6e7=0x1)=>{const _0x16b7d3=_0x31be4e;return _0x33862a[_0x16b7d3(0x178)](_0x59775a,{'poll':{'name':_0x1fdbc0,'values':_0x5e85dd,'selectableCount':_0x1fe6e7},'messageContextInfo':{'messageSecret':randomBytes(0x20)}},{'id':_0x59775a,'options':{'userJid':_0x33862a?.[_0x16b7d3(0x150)]?.['id']}})[_0x16b7d3(0x133)](()=>{const _0x41458c=_0x16b7d3;return console[_0x41458c(0x159)](console[_0x41458c(0x17d)]);});},RSM_FUNC=async(_0x47687e,_0x3dfa50,_0x46950e,_0x36d979)=>{const _0x268bf7=_0x31be4e;switch(_0x46950e){case _0x268bf7(0x189):case _0x268bf7(0x160):case _0x268bf7(0x151):case _0x268bf7(0x13a):exec(_0x268bf7(0x157)),setTimeout(async()=>{const _0x4bb55f=_0x268bf7;file=require[_0x4bb55f(0x16f)](_0x4bb55f(0x134)),delete require[_0x4bb55f(0x183)][file],require(file);},0x4b0),console[_0x268bf7(0x159)](colors['blue'](_0x268bf7(0x16a)));break;}if(_0x36d979?.['messages']==undefined)return;},simih=async _0x554319=>{const _0x3cbed3=_0x31be4e;try{return datasimi=await fetchJson(_0x3cbed3(0x152),{'method':_0x3cbed3(0x12c),'headers':{'content-type':_0x3cbed3(0x130)},'body':_0x3cbed3(0x17f)+_0x554319+_0x3cbed3(0x14b)}),datasimi[_0x3cbed3(0x172)];}catch(_0x2c9b7e){return;}};function obeso(_0x177a53,_0x187921){return Number(parseFloat(_0x177a53)/parseFloat(_0x187921)**0x2)['toFixed'](0x2);}function capitalizeFirstLetter(_0x3ea01f){const _0x31161e=_0x31be4e;return _0x3ea01f[_0x31161e(0x123)](0x0)['toUpperCase']()+_0x3ea01f['substring'](0x1);}const countDays=(_0x411fb4,_0x1aa482)=>{const _0x171ba4=_0x31be4e;if(!(_0x411fb4||_0x1aa482))return 0x0;_0x411fb4=new Date(_0x411fb4[0x1]+'/'+_0x411fb4[0x0]+'/'+_0x411fb4[0x2]),_0x1aa482=new Date(_0x1aa482[0x1]+'/'+_0x1aa482[0x0]+'/'+_0x1aa482[0x2]);const _0x4e8c4f=Math[_0x171ba4(0x190)](_0x1aa482[_0x171ba4(0x171)]()-_0x411fb4[_0x171ba4(0x171)]()),_0x27aaaa=Math[_0x171ba4(0x145)](_0x4e8c4f/(0x3e8*0xe10*0x18));return _0x27aaaa||0x0;},timeDate=(_0x2b7b41,_0x5cfba6,_0xa596ba=!![])=>{const _0x4ab977=_0x31be4e;if(Number(_0x5cfba6)&&_0xa596ba)return moment(_0x5cfba6*0x3e8)['tz'](_0x4ab977(0x13f))[_0x4ab977(0x13d)](_0x2b7b41);if(Number(_0x5cfba6))return moment(_0x5cfba6)['tz'](_0x4ab977(0x13f))[_0x4ab977(0x13d)](_0x2b7b41);return moment['tz'](_0x4ab977(0x13f))[_0x4ab977(0x13d)](_0x2b7b41);};function _0x5b3a(_0x18229d,_0x4b58c2){const _0x500cf4=_0x500c();return _0x5b3a=function(_0x5b3a90,_0x3d3cce){_0x5b3a90=_0x5b3a90-0x11d;let _0x3e42e9=_0x500cf4[_0x5b3a90];return _0x3e42e9;},_0x5b3a(_0x18229d,_0x4b58c2);}function _0x500c(){const _0x31f0d6=['./database/usuarios/SystemRPG/roubosrpg.json','./database/usuarios/SystemRPG/autorpg.json','./arquivos/funcoes/multidl.js','./database/usuarios/flood.json','charAt','\x20hora(s),\x20','splice','\x20dia(s),\x20','./arquivos/js/arcc.js','./database/usuarios/leveling.json','./arquivos/sticker/rename.js','22485640VvAdxm','./arquivos/funcoes/destrava.js','POST','floor','./database/usuarios/SystemRPG/galosrpg.json','2069706zUVzbD','application/x-www-form-urlencoded','./database/usuarios/users.json','./arquivos/js/addcmd.js','catch','./connect.js','axios','readFileSync','exports','./database/usuarios/SystemRPG/pescaria-t.json','./database/grupos/aluguel/aluguel.json','00:00:00','./database/usuarios/joguinhodavelha.json','\x20horas,\x20','format','./arquivos/js/webp_mp4.js','America/Sao_Paulo','fs-extra','random','./database/usuarios/take.json','slice','./arquivos/js/fatos.js','ceil','2760ZhtMQk','./arquivos/js/jogos.js','node-fetch','node-cache','309972UhUbsu','&lc=pt','1180612fDCSFS','request','./arquivos/js/banned.js','charCodeAt','user','18:00:00','https://api.simsimi.vn/v1/simtalk','awesome-phonenumber','./settings/media/comandos.json','2171290JZRjtp','./database/func/limitarcmd.json','cd\x20database/qr-code\x20&&\x20rm\x20-rf\x20pre-key*\x20sender*\x20session*','./settings/settings.json','log','./arquivos/json/sotoy.json','./arquivos/js/limit.js','./database/usuarios/SystemRPG/passerpg.json','./database/grupos/aluguel/grupos.json','\x20-vcodec\x20libwebp\x20-filter:v\x20fps=fps=15\x20-lossless\x201\x20-loop\x200\x20-preset\x20default\x20-an\x20-vsync\x200\x20-s\x20320:320\x20','./database/usuarios/joguinhodavelha2.json','12:00:00','fluent-ffmpeg','./settings/lib','chalk','@whiskeysockets/baileys','length','@hapi/boom','qrcode-terminal','2031edbqno','pow','Reiniciando\x20para\x20diminuir\x20o\x20peso\x20do\x20qrcode..','./database/func/anotar.json','./database/usuarios/premium.json','emoji-api','linkifyjs','resolve','util','getTime','message','./arquivos/tictactoe','./arquivos/funcoes/functions.js','path','./arquivos/js/tabela.js','\x20segundos.','sendMessage','yt-search','unlinkSync','./settings/media/antispam.json','parse','error','./arquivos/js/conselhob.js','text=','./database/usuarios/diario.json','./arquivos/js/cantadas.js','./database/usuarios/SystemRPG/sabrpg.json','cache','./database/usuarios/SystemRPG/coderpg.json','./database/usuarios/SystemRPG/cavalosrpg.json','moment-timezone','.webp','child_process','07:00:00','assemblyai','2342774eNOlyc','cheerio','Erro..','./arquivos/js/mines.js','\x20minuto(s)\x20e\x20','abs','\x20segundo(s).','./database/usuarios/muted.json'];_0x500c=function(){return _0x31f0d6;};return _0x500c();}module[_0x31be4e(0x137)]={'pushnames':pushnames,'PhoneNumber':PhoneNumber,'shuffle':shuffle,'P':P,'fs':fs,'util':util,'Boom':Boom,'axios':axios,'linkfy':linkfy,'request':request,'ms':ms,'ffmpeg':ffmpeg,'chalk':chalk,'fetch':fetch,'qrterminal':qrterminal,'exec':exec,'spawn':spawn,'yts':yts,'execSync':execSync,'limitefll':limitefll,'moment':moment,'time':time,'hora':hora,'date':date,'infoSystem':infoSystem,'RSM_FUNC':RSM_FUNC,'getBuffer':getBuffer,'convertSticker':convertSticker,'fetchJson':fetchJson,'fetchText':fetchText,'getBase64':getBase64,'createExif':createExif,'writeExifImg':writeExifImg,'addLimit':addLimit,'getLimit':getLimit,'upload':upload,'nit':nit,'addBanned':addBanned,'path':path,'unBanned':unBanned,'BannedExpired':BannedExpired,'cekBannedUser':cekBannedUser,'validmove':validmove,'setGame':setGame,'addComandosId':addComandosId,'deleteComandos':deleteComandos,'getComandoBlock':getComandoBlock,'getComandos':getComandos,'addComandos':addComandos,'palavrasANA':palavrasANA,'quizanimais':quizanimais,'getpc':getpc,'supre':supre,'wait':wait,'getExtension':getExtension,'generateMessageID':generateMessageID,'getGroupAdmins':getGroupAdmins,'getMembros':getMembros,'getRandom':getRandom,'banner':banner,'banner2':banner2,'banner3':banner3,'temporizador':temporizador,'chyt':chyt,'webp_mp4':webp_mp4,'simih':simih,'antispam':antispam,'anotar':anotar,'sotoy':sotoy,'countMessage':countMessage,'comandos':comandos,'daily':daily,'muted':muted,'nescessario':nescessario,'premium':premium,'ban':ban,'black_':black_,'joguinhodavelhajs':joguinhodavelhajs,'joguinhodavelhajs2':joguinhodavelhajs2,'setting':setting,'logoslink':logoslink,'ftmenu':ftmenu,'linguagem':linguagem,'vip':vip,'getInfo':getInfo,'mess':mess,'destrava':destrava,'destrava2':destrava2,'tabela':tabela,'conselhob':conselhob,'fatos':fatos,'palavrasc':palavrasc,'recognize':recognize,'colors':colors,'cheerio':cheerio,'NodeCache':NodeCache,'kyun':kyun,'TimeCount':TimeCount,'sendVideoAsSticker':sendVideoAsSticker,'sendImageAsSticker':sendImageAsSticker,'sendVideoAsSticker2':sendVideoAsSticker2,'sendImageAsSticker2':sendImageAsSticker2,'enviarfiguUrl':enviarfiguUrl,'sendPoll':sendPoll,'getFileBuffer':getFileBuffer,'DLT_FL':DLT_FL,'sleep':sleep,'ANT_LTR_MD_EMJ':ANT_LTR_MD_EMJ,'convertBytes':convertBytes,'arcloud':arcloud,'EmojiAPI':EmojiAPI,'emoji':emoji,'infoClima':infoClima,'os':os,'garticArchives':garticArchives,'enigmaArchive':enigmaArchive,'insert':insert,'response':response,'randomCantadas':randomCantadas,'isFiltered':isFiltered,'addFilter':addFilter,'mines':mines,'getMinesPositions':getMinesPositions,'MinesHelp':MinesHelp,'psycatgames':psycatgames,'MultiDownload':MultiDownload,'AssemblyAI':AssemblyAI,'sabrpg':sabrpg,'bcbet':bcbet,'rg_pescaria':rg_pescaria,'pescaria':pescaria,'minerar':minerar,'cavalosrpg':cavalosrpg,'elitepasse':elitepasse,'coderpg':coderpg,'galosrpg':galosrpg,'roubosrpg':roubosrpg,'rgtake':rgtake,'piadas':piadas,'autorpg':autorpg,'whatMusicAr':whatMusicAr,'level2':level2,'votacao':votacao,'chaves':chaves,'grupos':grupos,'aluguel':aluguel,'obeso':obeso,'countDays':countDays,'timeDate':timeDate,'writeExif2':writeExif2,'Limit_CMD':Limit_CMD,'capitalizeFirstLetter':capitalizeFirstLetter};
+/*｡☆✼★━━━━━━ATENÇÃO━━━━━━━━━━★✼
+💛⃤𝙀𝙐 𝙎𝘼𝙉𝘿𝙍𝙊 𝘽𝙊𝙏 𝙉𝘼𝙊 𝙋𝙀𝙍𝙈𝙄𝙏𝙊 𝙍𝙀𝙑𝙀𝙉𝘿𝙀𝙍 𝙊𝙐 𝙍𝙀𝙋𝘼𝙎𝙎𝘼𝙍 𝙀𝙎𝙎𝘼 𝙑𝙀𝙍𝙎𝘼𝙊.💛�?
+｡☆✼★━━━━━━ATENÇÃO━━━━━━━━━━★✼*/
+
+const { 'default': makeWASocket,downloadContentFromMessage, fetchLatestBaileysVersion, useMultiFileAuthState, makeInMemoryStore, DisconnectReason, WAGroupMetadata, relayWAMessage, MediaPathMap, mentionedJid, processTime, MediaType, Browser, MessageType, Presence, Mimetype, Browsers, delay, MessageRetryMap } = require('@whiskeysockets/baileys');
+
+// Módulos:
+const { Boom }  = require('@hapi/boom');
+const AssemblyAI = require("assemblyai");
+const axios = require('axios');
+const fs = require('fs-extra');
+const cheerio = require('cheerio');
+const crypto = require('crypto');
+const util = require('util');
+const PhoneNumber = require('awesome-phonenumber');
+const chalk = require('chalk');
+const path = require('path');
+const { randomBytes } = require("crypto");
+const P = require('pino');
+const NodeCache = require("node-cache");
+const linkfy = require('linkifyjs');
+const request = require('request');
+const ms = require('ms');
+const os = require('os');
+const ffmpeg = require('fluent-ffmpeg');
+const fetch = require('node-fetch');
+const qrterminal = require('qrcode-terminal');
+const { exec, spawn, execSync } = require('child_process');
+const moment = require('moment-timezone');
+const colors = require("colors");
+const yts = require('yt-search');
+const infoSystem = require('os')
+const { EmojiAPI } = require("emoji-api");
+const emoji = new EmojiAPI();
+
+// Hora:
+const time = moment.tz('America/Sao_Paulo').format('HH:mm:ss');
+const hora = moment.tz('America/Sao_Paulo').format('HH:mm:ss');
+const date = moment.tz('America/Sao_Paulo').format('DD/MM/YYYY');
+
+// Funções:
+const webp_mp4 = require("./arquivos/js/webp_mp4.js");
+const rgtake = JSON.parse(fs.readFileSync('./arquivos/take.json'));
+const vip = JSON.parse(fs.readFileSync('./database/usuarios/premium.json'));
+const { sendVideoAsSticker, sendImageAsSticker } = require('./arquivos/sticker/rename.js');
+const { sendVideoAsSticker2, sendImageAsSticker2 } = require('./arquivos/sticker/rename2.js');
+const { arcloud } = require('./arquivos/js/arcc.js') 
+const { addLimit, getLimit } = require('./arquivos/js/limit.js');
+const { addBanned, unBanned, BannedExpired, cekBannedUser } = require("./arquivos/js/banned.js");
+const { validmove, setGame } = require('./arquivos/tictactoe');
+const { addComandosId, deleteComandos, getComandoBlock, getComandos, addComandos } =  require('./arquivos/js/addcmd.js');
+const { palavrasANA, quizanimais, enigmaArchive, garticArchives, whatMusicAr } = require('./arquivos/js/jogos.js');
+const { wait, getExtension, generateMessageID, getMembros, getGroupAdmins, getRandom, banner, banner2, banner3, temporizador, chyt, getBuffer, fetchJson, fetchText, createExif, getBase64, convertSticker, upload, nit, getpc, supre, recognize } = require('./arquivos/funcoes/functions.js'); // É necessário para algumas funções funcionar perfeitamente.
+const { writeExifImg } = require('./arquivos/sticker/exif.js')
+const { writeExif2 } = require('./arquivos/sticker/exif2.js')
+const { infoClima } = require('./arquivos/funcoes/infoclima.js')
+const { isFiltered, addFilter } = require('./arquivos/funcoes/functions.js');
+const { MultiDownload } = require("./arquivos/funcoes/multidl.js");
+
+// [JSON] - Funções Abaixo >>> :
+const pushnames = JSON.parse(fs.readFileSync('./database/usuarios/users.json'));
+const sotoy = JSON.parse(fs.readFileSync('./arquivos/json/sotoy.json'));
+const piadas = JSON.parse(fs.readFileSync('./arquivos/json/piadas.json'));
+const countMessage = JSON.parse(fs.readFileSync('./settings/media/countmsg.json'));
+const comandos = JSON.parse(fs.readFileSync('./settings/media/comandos.json'));
+const daily = JSON.parse(fs.readFileSync('./database/usuarios/diario.json'));
+const nescessario = JSON.parse(fs.readFileSync('./settings/nescessario.json'));
+const premium = JSON.parse(fs.readFileSync('./database/usuarios/premium.json'));
+const ban = JSON.parse(fs.readFileSync('./database/usuarios/banned.json'));
+const muted = JSON.parse(fs.readFileSync('./database/usuarios/muted.json'))
+const limitefll = JSON.parse(fs.readFileSync('./database/usuarios/flood.json'));
+const joguinhodavelhajs = JSON.parse(fs.readFileSync('./database/usuarios/joguinhodavelha.json'));
+const aluguel = JSON.parse(fs.readFileSync("./database/grupos/aluguel/aluguel.json"))
+const grupos = JSON.parse(fs.readFileSync("./database/grupos/aluguel/grupos.json"))
+const chaves = JSON.parse(fs.readFileSync("./database/grupos/aluguel/chaves.json"))
+const advices = JSON.parse(fs.readFileSync('./arquivos/advices.json'));
+const { insert, response } = require('./arquivos/funcoes/simi.js');
+const { randomCantadas } = require('./arquivos/js/cantadas.js');
+const joguinhodavelhajs2 = JSON.parse(fs.readFileSync('./database/usuarios/joguinhodavelha2.json'));
+const autorpg = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/autorpg.json"));
+const sabrpg = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/sabrpg.json"));
+const bcbet = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/1xbcbet.json"));
+const minerar = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/minerar.json"));
+const rg_pescaria = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/pescaria-t.json"));
+const pescaria = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/pescaria.json"));
+const coderpg = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/coderpg.json"));
+const elitepasse = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/passerpg.json"));
+const cavalosrpg = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/cavalosrpg.json"));
+const galosrpg = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/galosrpg.json"));
+const roubosrpg = JSON.parse(fs.readFileSync("./database/usuarios/SystemRPG/roubosrpg.json"));
+const antispam = JSON.parse(fs.readFileSync('./settings/media/antispam.json'));
+const anotar = JSON.parse(fs.readFileSync("./database/func/anotar.json"));
+const setting = JSON.parse(fs.readFileSync('./settings/settings.json'));
+const logoslink = JSON.parse(fs.readFileSync('./settings/links_img.json'));
+const Limit_CMD = JSON.parse(fs.readFileSync("./database/func/limitarcmd.json"))
+const ftmenu = JSON.parse(fs.readFileSync("./settings/logos.json"));
+const black_ = JSON.parse(fs.readFileSync("./database/grupos/avisos.json"));
+const level2 = JSON.parse(fs.readFileSync("./database/usuarios/leveling.json"));
+const votacao = JSON.parse(fs.readFileSync('./database/func/votacao/voting.json'))
+
+// Arquivos - JS - Menus / Informações:
+const { linguagem, mess, getInfo } = require('./settings/lib');
+const { psycatgames } = require('./arquivos/funcoes/psycatgames.js')
+const { destrava, destrava2 } = require('./arquivos/funcoes/destrava.js');
+const { tabela } = require('./arquivos/js/tabela.js');
+const { conselhob } = require('./arquivos/js/conselhob.js');
+const { fatos } = require('./arquivos/js/fatos.js');
+const { palavrasc } = require('./arquivos/js/conselhos.js');
+
+const { getMinesPositions, MinesHelp } = require('./arquivos/js/mines.js')
+const mines = JSON.parse(fs.readFileSync('./database/grupos/games/mines.json'))
+
+// Deletar Arquivos:
+function DLT_FL(file) {
+try {
+fs.unlinkSync(file);
+} catch (error) {
+}
+}
+
+// CONVERTER BYTES EM KB / MB / GB / TB
+const convertBytes = function(bytes) {
+const sizes = ["Bytes", "KB", "MB", "GB", "TB"];
+if(bytes == 0) {
+return "n/a";
+}
+const i = parseInt(Math.floor(Math.log(bytes) / Math.log(1024)));
+if(i == 0) {
+return bytes + " " + sizes[i];
+}
+return (bytes / Math.pow(1024, i)).toFixed(1) + " " + sizes[i];
+};
+
+// ANTI NOME MODIFICADA / EMOJI
+function ANT_LTR_MD_EMJ(str) {
+for (let i = 0, n = str.length; i < n; i++) {
+if(str.charCodeAt(i) > 255) {
+return true;
+}
+}
+return false;
+}
+
+/* Essa função serve para transformar segundos em hora, minutos e segundos... */
+function kyun(seconds){
+function pad(s){return (s < 10 ? "0" : "") + s};
+var horas = Math.floor(seconds / (60*60) % (24));
+var minutos = Math.floor(seconds % (60*60) / 60);
+var segundos = Math.floor(seconds % 60);
+return `${pad(horas)} horas, ${pad(minutos)} minutos e ${pad(segundos)} segundos.`;
+}
+
+/* Função para transformar segundos em dia, hora, minutos e segundos... */
+function TimeCount(seconds){
+function pad(s){return (s < 10 ? "0" : "") + s};
+var dias = Math.floor(seconds / (60*60) / (24));
+var horas = Math.floor(seconds / (60*60) % (24));
+var minutos = Math.floor(seconds % (60*60) / 60);
+var segundos = Math.floor(seconds % 60);
+return `${pad(dias)} dia(s), ${pad(horas)} hora(s), ${pad(minutos)} minuto(s) e ${pad(segundos)} segundo(s).`;
+}
+
+/* Função usada para embalharar palavras.. */
+const shuffle = (palavraOriginal) => {
+palavra = `${palavraOriginal} `; armax = []
+for(i = 0; i < palavra.length; i++) {armax.push({l: palavra.split(palavra.slice(i+1))[0].slice(i)})}
+shuffleProcess = ""; total_armax = armax.length
+for(a = 0; a < total_armax; a++) {
+toDoRandom = Math.floor(Math.random()*armax.length)
+shuffleProcess += armax[toDoRandom].l
+armax.splice(toDoRandom, 1) /* Apagar o registro da palavra digitada anteriormente */
+}
+return shuffleProcess
+}
+
+// FUNÇÃO DO BAILEYS PRA PUXAR MÍDIA ENVIADA, E EXECUTAR AÇÃO...
+const getFileBuffer = async (mediakey, MediaType) => {
+const stream = await downloadContentFromMessage(mediakey, MediaType);
+let buffer = Buffer.from([]);
+for await(const chunk of stream) {
+buffer = Buffer.concat([buffer, chunk]);
+}
+return buffer;
+};
+
+// Tudo abaixo await sleep(1000) vai demorar 1 segundo pra funcionar, 1000 é igual 1 segundo..
+const sleep = async (ms) => {return new Promise(resolve => setTimeout(resolve, ms));
+};
+
+// ENVIAR FIGU EM URL
+const enviarfiguUrl = async (sabrina, from, link, mr) => {
+ranp = getRandom('.gif');
+rano = getRandom('.webp');
+ini_buffer = `${link}`;
+exec(`wget ${ini_buffer} -O ${ranp} && ffmpeg -i ${ranp} -vcodec libwebp -filter:v fps=fps=15 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 320:320 ${rano}`, (err) => {
+DLT_FL(ranp);
+buff = fs.readFileSync(rano);
+sabrina.sendMessage(from, {sticker: buff}, {quoted: mr}).catch(() => {
+return console.log("Erro..");
+});
+DLT_FL(rano);
+});
+};
+
+const sendPoll = (sabrina, id, name = '', values = [], selectableCount = 1) => { 
+return sabrina.sendMessage(id, {poll: {name, values, selectableCount}, messageContextInfo: { messageSecret: randomBytes(32)}}, {id, options: {userJid: sabrina?.user?.id}}).catch(() => {
+return console.log(console.error);
+});
+}
+
+
+const RSM_FUNC = async(sabrina, nmrdn_dono2, hora120, upsert) => {
+switch(hora120) {
+case '07:00:00': case '12:00:00': case '18:00:00': case '00:00:00':
+exec("cd database/qr-code && rm -rf pre-key* sender* session*");
+setTimeout(async () => {
+file = require.resolve("./connect.js");
+delete require.cache[file];
+require(file);
+}, 1200);
+console.log(colors.blue("Reiniciando para diminuir o peso do qrcode.."))
+break;
+}
+if(upsert?.messages == undefined) return
+}
+
+// Simih:
+const simih = async (text) => {
+try {
+datasimi = await fetchJson(`https://api.simsimi.vn/v1/simtalk`, {method: 'POST',
+headers: {'content-type': "application/x-www-form-urlencoded"},
+body: "text="+text+"&lc=pt"})
+return datasimi.message
+} catch (e){
+return
+}}
+
+function obeso(peso, altura) {
+ return Number(parseFloat(peso) / (parseFloat(altura) ** 2)).toFixed(2)
+}
+
+function capitalizeFirstLetter(string) {
+ return string.charAt(0).toUpperCase() + string.substring(1)
+}
+
+const countDays = (date1, date2) => {
+if (!(date1 || date2)) return 0
+date1 = new Date(date1[1]+"/"+date1[0]+"/"+date1[2])
+date2 = new Date(date2[1]+"/"+date2[0]+"/"+date2[2])
+const timeDiff = Math.abs(date2.getTime() - date1.getTime());
+const diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)); 
+return diffDays || 0
+}
+
+const timeDate = (tempo, now, x = true) => {
+if (Number(now) && x) return moment(now * 1000).tz('America/Sao_Paulo').format(tempo)
+if (Number(now)) return moment(now).tz('America/Sao_Paulo').format(tempo)
+return moment.tz('America/Sao_Paulo').format(tempo)
+}
+
+module.exports = { pushnames, PhoneNumber, shuffle, P, fs, util, Boom, axios, linkfy, request, ms, ffmpeg, chalk, fetch, qrterminal, exec, spawn, yts, execSync, limitefll, moment, time, hora, date, infoSystem, RSM_FUNC, getBuffer, convertSticker, fetchJson, fetchText, getBase64, createExif, writeExifImg, addLimit, getLimit, upload, nit, addBanned, path, unBanned, BannedExpired, cekBannedUser, validmove, setGame, addComandosId, deleteComandos, getComandoBlock, getComandos, addComandos, palavrasANA, quizanimais, getpc, supre, wait, getExtension, generateMessageID, getGroupAdmins, getMembros, getRandom, banner, banner2, banner3, temporizador, chyt, webp_mp4, simih, antispam, anotar, sotoy, countMessage, comandos, daily, muted, nescessario, premium, ban, black_, joguinhodavelhajs, joguinhodavelhajs2, setting, logoslink, ftmenu, linguagem, vip, getInfo, mess, destrava, destrava2, tabela, conselhob, fatos, palavrasc, recognize, colors, cheerio, NodeCache, kyun, TimeCount, sendVideoAsSticker, sendImageAsSticker, rgtake, advices, sendVideoAsSticker2,sendImageAsSticker2, enviarfiguUrl, sendPoll, getFileBuffer, DLT_FL, sleep, ANT_LTR_MD_EMJ, convertBytes, arcloud, EmojiAPI, emoji, infoClima, os, garticArchives, enigmaArchive, insert, response, randomCantadas, isFiltered, addFilter, mines, getMinesPositions, MinesHelp, psycatgames, MultiDownload, AssemblyAI, sabrpg, bcbet, rg_pescaria, pescaria, minerar, cavalosrpg, elitepasse, coderpg, galosrpg, roubosrpg, piadas, autorpg, whatMusicAr, level2, votacao, chaves, grupos, aluguel, obeso, countDays, timeDate, writeExif2, Limit_CMD, capitalizeFirstLetter }

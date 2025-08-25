@@ -1,0 +1,37 @@
+｡☆✼★━━━━━━ATENÇÃO━━━━━━━━━━★✼
+𝙀𝙐 KAUA DEV 𝙉𝘼𝙊 𝙋𝙀𝙍𝙈𝙄𝙏𝙊 𝙍𝙀𝙑𝙀𝙉𝘿𝙀𝙍 𝙊𝙐 𝙍𝙀𝙋𝘼𝙎𝙎𝘼𝙍 𝙀𝙎𝙎𝘼 𝙑𝙀𝙍𝙎𝘼𝙊.
+｡☆✼★━━━━━━ATENÇÃO━━━━━━━━━━★✼
+
+FAÇA A INSTALAÇÃO MANUALMENTE!!
+
+1) termux-setup-storage
+
+2) cd /sdcard/KAIRO-MD
+
+ou
+
+cd /sdcard/Download/KAIRO-MD
+
+3) apt-get upgrade
+
+4) apt-get update
+
+5) apt upgrade -y
+
+6) apt update -y
+
+7) apt install nodejs -y 
+
+8) apt install nodejs-lts -y 
+
+9) apt install ffmpeg -y
+
+10) apt install wget -y 
+
+11) apt install git -y
+
+12) pkg update && pkg upgrade -y
+
+13) npm start
+
+fim

@@ -8,8 +8,8 @@
     "antiaudio": false,
     "antisticker": false,
     "antidoc": false,
-    "antictt": false,
-    "antiloc": false,
+    "antictt": true,
+    "antiloc": true,
     "antilinkgp": true,
     "antilinkhard": false,
     "antifake": true,
@@ -50,8 +50,8 @@
       "palavras": []
     },
     "limitec": {
-      "active": false,
-      "quantidade": null
+      "active": true,
+      "quantidade": "400"
     },
     "wellcome": [
       {
@@ -61,8 +61,8 @@
       },
       {
         "bemvindo2": true,
-        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
-        "legendasaiu": 0
+        "legendabv": " Ola #numerodele# Seja bem-vindo(a) ao Grupo #nomedogp# meu Prefixo e  (#prefixo#)",
+        "legendasaiu": "‼️ #numerodele# Saiu do grupo #nomedogp# 🥹 Bom a diversão Continua 🎉🥳"
       }
     ],
     "simi1": false,

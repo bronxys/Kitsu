@@ -2,7 +2,7 @@
   {
     "name": "LABORATÓRIO DE CASES",
     "groupId": "120363332360909207@g.us",
-    "x9": false,
+    "x9": true,
     "antiimg": false,
     "antivideo": false,
     "antiaudio": false,
@@ -24,7 +24,10 @@
     "listanegra": [
       "5511988038403@s.whatsapp.net"
     ],
-    "advertir": [],
+    "advertir": [
+      "558597461561@s.whatsapp.net",
+      "558597461561@s.whatsapp.net"
+    ],
     "prefixos": [
       "/"
     ],
@@ -63,8 +66,8 @@
       },
       {
         "bemvindo2": true,
-        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
-        "legendasaiu": 0
+        "legendabv": " Ola #numerodele# Seja bem-vindo(a) ao Grupo #nomedogp# meu Prefixo e  (#prefixo#)",
+        "legendasaiu": "‼️ #numerodele# Saiu do grupo #nomedogp# 🥹 Bom a diversão Continua 🎉🥳"
       }
     ],
     "simi1": false,

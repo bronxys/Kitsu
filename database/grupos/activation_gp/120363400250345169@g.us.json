@@ -8,8 +8,8 @@
     "antiaudio": false,
     "antisticker": false,
     "antidoc": false,
-    "antictt": false,
-    "antiloc": false,
+    "antictt": true,
+    "antiloc": true,
     "antilinkgp": true,
     "antilinkhard": false,
     "antifake": false,
@@ -50,8 +50,8 @@
       "palavras": []
     },
     "limitec": {
-      "active": false,
-      "quantidade": null
+      "active": true,
+      "quantidade": "400"
     },
     "wellcome": [
       {
@@ -61,8 +61,8 @@
       },
       {
         "bemvindo2": true,
-        "legendabv": "GRUPO CRIADO PARA FAZER CONSULTAS SEJA BEM-VINDO🫡\n\n- *COMANDOS DISPONÍVEIS NO MOMENTO*\n\n╔♡∞*♡♡∞:｡.｡💔｡.｡:∞♡*♡:∞♡╗\n╠═⪩⟨💔𝐏𝐔𝐗𝐀𝐑-𝐃𝐀𝐃𝐎𝐒⟩\n╚♡∞*♡♡∞:｡.｡💔｡.｡:∞♡*♡:∞♡╝\n╭══════════════ ⪩\n│💔⃤/nome (nome)\n│💔⃤/nome2 (nome)\n│💔⃤/cpf (numero)\n│💔⃤/cpf2 (numero)\n│💔⃤/cpf3 (numero)\n│💔⃤/cpf4 (numero)\n│💔⃤/mae (nome)\n│💔⃤/placa (numero)\n╰═══════════════ ⪨\n\n> SANDRO MD - SANDRO BOT",
-        "legendasaiu": 0
+        "legendabv": " Ola #numerodele# Seja bem-vindo(a) ao Grupo #nomedogp# meu Prefixo e  (#prefixo#)",
+        "legendasaiu": "‼️ #numerodele# Saiu do grupo #nomedogp# 🥹 Bom a diversão Continua 🎉🥳"
       }
     ],
     "simi1": false,
@@ -73,6 +73,6 @@
     "level": false,
     "bangp": false,
     "nsfw": false,
-    "aluguel": true
+    "aluguel": false
   }
 ]

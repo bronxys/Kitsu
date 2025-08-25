@@ -1,3 +1,4 @@
+
 const menu = (prefix, pushname, NickDono, NomeDoBot, isChVip, sender, packname) => {
 return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 ╠═⪩⟨💙𝐒𝐄𝐉𝐀-𝐁𝐄𝐌-𝐕𝐈𝐍𝐃𝐎(𝐀)⟩
@@ -6,12 +7,16 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤Bot: ${NomeDoBot}
 │💙⃤Dono: ${NickDono}
 │💙⃤Usuário: *@${pushname}*
-│💙⃤fonte de informações: Baileys MD
+│💙⃤Biblioteca: Baileys MD
 │💙⃤Prefixo: [${prefix}]
 │💙⃤Vip?: [${isChVip}]
 ╰━━━━━─「愛」─━━━━━
+╭━━━⪩ *info-bot* ⪨━━━
+│💙⃤${prefix}infobot
+╰━━━━━─「愛」─━━━━━
 ╭━━━⪩ *Menus* ⪨━━━
 │💙⃤${prefix}Lojinha
+│💙⃤${prefix}menuff
 │💙⃤${prefix}Menubasico
 │💙⃤${prefix}Menudono
 │💙⃤${prefix}Menuadm
@@ -47,9 +52,22 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}recado
 ╰━━━━━─「愛」─━━━━━
 ╭━━━⪩ *DIVERSOS* ⪨━━━
-│💙⃤${prefix}stalkerzap (channel-link)
+│💙⃤${prefix}rfundo (marcar-imagem)
+│💙⃤${prefix}zerotwo (oii)
+│💙⃤${prefix}imgpralink (marcar-img)
+│💙⃤${prefix}imgpralink2 (marcar-img)
+│💙⃤${prefix}ensina (90+90)
+│💙⃤${prefix}happymod (Free fire)
+│💙⃤${prefix}otakotaku (Naruto)
+│💙⃤${prefix}stalktwitter (alanzoka)
 │💙⃤${prefix}tikstalk (sr_gelado19)
 │💙⃤${prefix}instastalk (sx_sandro)
+│💙⃤${prefix}youtubetalk (SANDRO-BOT)
+│💙⃤${prefix}pais (Brasil)
+│💙⃤${prefix}dns (https://google.com)
+│💙⃤${prefix}traduzir (cat)
+│💙⃤${prefix}totext (marcar-audio)
+│💙⃤${prefix}stalkerzap (channel-link)
 │💙⃤${prefix}personagem (Naruto)
 │💙⃤${prefix}anime2 (Naruto)
 │💙⃤${prefix}movie (Moana)
@@ -61,10 +79,10 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}pokemon (pikachu)
 │💙⃤${prefix}gethtml (link site)
 │💙⃤${prefix}comprarbot
-│💙⃤${prefix}ping
+│💙⃤${prefix}ping (velocidade)
 │💙⃤${prefix}gerarnick (sandro)
 │💙⃤${prefix}gerarnick2 (sandro)
-│💙⃤${prefix}ping2
+│💙⃤${prefix}ping2 (velocidade)
 │💙⃤${prefix}metadinha
 │💙⃤${prefix}convite (link do grupo)
 │💙⃤${prefix}calcular (13+11)
@@ -166,7 +184,16 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}joker [TXT]
 │💙⃤${prefix}clouds [TXT]
 ╰━━━━━─「愛」─━━━━━
+╭━━━⪩ *MONTAGEM* ⪨━━━
+│💙⃤${prefix}bolsonaro (marca uma imagem) 
+│💙⃤${prefix}comunismo (marca uma imagem) 
+│💙⃤${prefix}jail (marca uma imagem) 
+│💙⃤${prefix}rip (marca uma imagem) 
+│💙⃤${prefix}pixelate (marca uma imagem) 
+│💙⃤${prefix}lgbt (marca uma imagem) 
+╰━━━━━─「愛」─━━━━━
 ╭━━━⪩ *FIGURINHAS* ⪨━━━
+│💙⃤${prefix}gura
 │💙⃤${prefix}ttp (Seu texto)
 │💙⃤${prefix}Attp (Seu texto)
 │💙⃤${prefix}Attp1 (Seu texto)
@@ -178,6 +205,7 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}Attp7 (Seu texto)
 │💙⃤${prefix}Attp8 (Seu texto)
 │💙⃤${prefix}Attp9 (Seu texto)
+│💙⃤${prefix}figuperfil
 │💙⃤${prefix}emojimix (😍+🥰)
 │💙⃤${prefix}Fsticker (Marcar-foto)
 │💙⃤${prefix}Sticker (Marcar-foto)
@@ -195,6 +223,7 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}figuflork (5)
 ╰━━━━━─「愛」─━━━━━
 ╭━━━⪩ *PESQUISAR* ⪨━━━
+│💙⃤${prefix}videoporn (link-xv)
 │💙⃤${prefix}gimage (anime)
 │💙⃤${prefix}operadora (5531xxxx)
 │💙⃤${prefix}xvsearch (morena)
@@ -204,6 +233,8 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}googlesearch (Moana)
 │💙⃤${prefix}noticias (Bolsonaro)
 │💙⃤${prefix}chatgpt (ola)
+│💙⃤${prefix}chatgpt2 (ola)
+│💙⃤${prefix}chatgpt3 (ola)
 │💙⃤${prefix}clima (Sao Paulo)
 │💙⃤${prefix}clima2 (Sao Paulo)
 │💙⃤${prefix}letramusic (mc Kevin)
@@ -217,13 +248,18 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 ╰━━━━━─「愛」─━━━━━
 ╭━━━⪩ *Download* ⪨━━━
 │💙⃤${prefix}soundcloud (link)
+│💙⃤${prefix}playmix (nome)
 │💙⃤${prefix}play (nome)
 │💙⃤${prefix}play1 (nome)
 │💙⃤${prefix}play2 (nome)
 │💙⃤${prefix}play3 (nome)
+│💙⃤${prefix}play4 (nome)
 │💙⃤${prefix}playvideo (nome)
+│💙⃤${prefix}facebook (link)
 │💙⃤${prefix}tiktokaudio (link)
 │💙⃤${prefix}tiktok (link)
+│💙⃤${prefix}tiktok2 (link)
+│💙⃤${prefix}tiktok3 (nome)
 │💙⃤${prefix}ytmp3 (link)
 │💙⃤${prefix}ytmp4 (link)
 │💙⃤${prefix}ytdoc (link)
@@ -237,6 +273,23 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 };
 
 exports.menu = menu;
+
+const menuff = (prefix, pushname, NickDono, NomeDoBot, isChVip, sender, packname) => {
+return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
+╠═⪩⟨💙𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐅𝐑𝐄𝐄 𝐅𝐈𝐑𝐄⟩
+╚♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╝
+╭━━━⪩ *COMANDOS FF* ⪨━━━
+│💙⃤${prefix}ffstalk (ID)
+│💙⃤${prefix}ffinfo (ID)
+│💙⃤${prefix}ffdata (ID)
+│💙⃤${prefix}ffprime (ID)
+│💙⃤${prefix}ffbios
+│💙⃤${prefix}ffban (ID)
+╰━━━━━─「愛」─━━━━━`;
+};
+
+exports.menuff = menuff;
+
 
 const menubasico = (prefix, pushname, NickDono, NomeDoBot, isChVip, sender, packname) => {
 return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
@@ -297,6 +350,7 @@ return`╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}waifu
 ╰━━━━━─「愛」─━━━━━
 ╭━━━⪩ *FIGURINHAS* ⪨━━━
+│💙⃤${prefix}gura
 │💙⃤${prefix}ttp (Seu texto)
 │💙⃤${prefix}Attp (Seu texto)
 │💙⃤${prefix}Attp1 (Seu texto)
@@ -350,6 +404,13 @@ return `​╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 ╠═⪩⟨💙𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐀𝐃𝐌⟩
 ╚♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╝
 ╭═══════════════════ 
+│💙⃤${prefix}anotacoes
+│💙⃤${prefix}anotar (Teste|oii)
+│💙⃤${prefix}listaddi (55)
+│💙⃤${prefix}listabr
+│💙⃤${prefix}advertidos
+│💙⃤${prefix}rankddd
+│💙⃤${prefix}adverti (@)
 │💙⃤${prefix}Antiimg (1/0)
 │💙⃤${prefix}Antivideo (1/0)
 │💙⃤${prefix}Antiaudio (1/0)
@@ -440,6 +501,8 @@ return `​para configurar o bot use: ${prefix}configurar-bot
 ╠═⪩⟨💙𝐌𝐄𝐍𝐔 𝐃𝐎𝐍𝐎⟩
 ╚♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╝
 ╭══════════════ ⪩
+│💙⃤${prefix}tirar_docnt
+│💙⃤${prefix}limpar_mortos-cnt
 │💙⃤${prefix}criargp (Nome)
 │💙⃤${prefix}divid (ID GRUPO)
 │💙⃤${prefix}cobrar
@@ -699,6 +762,7 @@ return `​╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 ╭══════════════ ⪩
 │💙⃤${prefix}cassino
 │💙⃤${prefix}Perfil
+│💙⃤${prefix}ship
 │💙⃤${prefix}perfilff
 │💙⃤${prefix}desafio
 │💙⃤${prefix}adivinha (6)
@@ -893,16 +957,13 @@ return `​╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 ╠═⪩⟨💙𝐌𝐄𝐍𝐔-𝐃𝐄-𝐄𝐅𝐄𝐈𝐓𝐎𝐒⟩
 ╚♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╝
 ╭══════════════ ⪩
-│💙⃤${prefix}lixo (marca uma imagem) 
+│💙⃤${prefix}bolsonaro (marca uma imagem) 
+│💙⃤${prefix}comunismo (marca uma imagem) 
+│💙⃤${prefix}jail (marca uma imagem) 
+│💙⃤${prefix}rip (marca uma imagem) 
+│💙⃤${prefix}pixelate (marca uma imagem) 
 │💙⃤${prefix}lgbt (marca uma imagem) 
-│💙⃤${prefix}morto (marca uma imagem) 
-│💙⃤${prefix}preso (marca uma imagem) 
-│💙⃤${prefix}deletem (marca uma imagem)
-│💙⃤${prefix}procurado (marca uma imagem) 
-│💙⃤${prefix}hitler (marca uma imagem) 
-│💙⃤${prefix}borrar (marca uma imagem) 
-│💙⃤${prefix}merda (marca uma imagem)
-╰══════════════ ⪨`; 
+╰═══════════════════ ⪨`; 
 };
 
 exports.efeitos = efeitos;
@@ -974,12 +1035,13 @@ return `​👑 *INFORMAÇÕES DO MEU DONO* 👑
 │Prefixo: [${prefix}]
 │
 │Canal:
-│"."
+│https://whatsapp.com/channel/0029Vb5tKaqBlHpgpQuISj3Y
 │
 │comunidade:
 │https://whatsapp.com/channel/0029Vb5tKaqBlHpgpQuISj3Y
-│grupo:https://chat.whatsapp.com/G87aQ7ivH4gAYSuXFJiEVw?mode=ac_t
 │
+│Grupo:
+│https://chat.whatsapp.com/G87aQ7ivH4gAYSuXFJiEVw?mode=ems_copy_t
 ╰━━━━━━━━━━━━━━━━`;
 };
 
@@ -993,6 +1055,7 @@ return `​╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 ╠═⪩⟨💙𝐌𝐄𝐍𝐔-𝐅𝐈𝐆𝐔𝐑𝐈𝐍𝐇𝐀𝐒⟩
 ╚♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╝
 ╭━━━⪩ *FIGURINHAS* ⪨━━━
+│💙⃤${prefix}gura
 │💙⃤${prefix}ttp (Seu texto)
 │💙⃤${prefix}Attp (Seu texto)
 │💙⃤${prefix}Attp1 (Seu texto)
@@ -1030,10 +1093,18 @@ return `​╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 ╠═⪩⟨💙𝐌𝐄𝐍𝐔-𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐒⟩
 ╚♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╝
 ╭━━━⪩ *PESQUISAR* ⪨━━━
+│💙⃤${prefix}videoporn (link-xv)
+│💙⃤${prefix}gimage (anime)
+│💙⃤${prefix}operadora (5531xxxx)
+│💙⃤${prefix}xvsearch (morena)
+│💙⃤${prefix}dorama (link)
+│💙⃤${prefix}pesquisaytb (Sandro bot)
+│💙⃤${prefix}anime (Kimetsu no Yaiba)
 │💙⃤${prefix}googlesearch (Moana)
 │💙⃤${prefix}noticias (Bolsonaro)
 │💙⃤${prefix}chatgpt (ola)
 │💙⃤${prefix}clima (Sao Paulo)
+│💙⃤${prefix}clima2 (Sao Paulo)
 │💙⃤${prefix}letramusic (mc Kevin)
 │💙⃤${prefix}aptoide (Free fire)
 │💙⃤${prefix}aptoidelink (link aptoide)
@@ -1044,15 +1115,18 @@ return `​╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 │💙⃤${prefix}ytsearch (mc paiva)
 ╰━━━━━─「愛」─━━━━━
 ╭━━━⪩ *Download* ⪨━━━
-│💙⃤${prefix}tiktoksearch (edit pou)
 │💙⃤${prefix}soundcloud (link)
+│💙⃤${prefix}playmix (nome)
 │💙⃤${prefix}play (nome)
 │💙⃤${prefix}play1 (nome)
 │💙⃤${prefix}play2 (nome)
 │💙⃤${prefix}play3 (nome)
+│💙⃤${prefix}play4 (nome)
 │💙⃤${prefix}playvideo (nome)
 │💙⃤${prefix}tiktokaudio (link)
 │💙⃤${prefix}tiktok (link)
+│💙⃤${prefix}tiktok2 (link)
+│💙⃤${prefix}tiktok3 (nome)
 │💙⃤${prefix}ytmp3 (link)
 │💙⃤${prefix}ytmp4 (link)
 │💙⃤${prefix}ytdoc (link)
@@ -1150,7 +1224,7 @@ exports.nsfw = nsfw;
 
 const semprefixo = (prefix, sender) => {
 
-return `​⃤𝐒𝐀𝐍𝐃𝐑𝐎 𝐌𝐃 𝐕15⃤`;
+return `​⃤𝐒𝐀𝐍𝐃𝐑𝐎 𝐌𝐃 V20⃤`;
 };
 
 exports.semprefixo = semprefixo; 
@@ -1312,4 +1386,3 @@ return `╔♡∞*♡♡∞:｡.｡💙｡.｡:∞♡*♡:∞♡╗
 };
 
 exports.menulink = menulink; 
-

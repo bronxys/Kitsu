@@ -19,13 +19,13 @@ exports.playResult = (data) => {
 *🌐 Id do video:* ${data.resultado[0].videoId}
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
-*🤖 Bot: _SANDRO-BOT_*
-*🥼 Criador: _SANDRO_*
+*🤖 Bot: _KAIRO-MD_*
+*🥼 Criador: _KAUADEV_*
 *🖇 Link:* ${data.resultado[0].url}`
 }
 
 exports.playResult = (ytbr) => {
-  return `𝙎𝘼𝙉𝘿𝙍𝙊 𝙈𝘿 𝙈𝙀𝙇𝙃𝙊𝙍 𝘽𝙊𝙏 2024`
+  return `KAIRO 𝙈𝘿 𝙈𝙀𝙇𝙃𝙊𝙍 𝘽𝙊𝙏 2024`
 }
 
 exports.playVideo = (data) => {
@@ -38,8 +38,8 @@ exports.playVideo = (data) => {
 *🌐 Id do video:* ${data.resultado[0].videoId}
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
-*🤖 Bot: _SANDRO-BOT_*
-*🥼 Criador: _SANDRO_*
+*🤖 Bot: _KAIRO-MD_*
+*🥼 Criador: _KAUADEV_*
 *🖇 Link:* ${data.resultado[0].url}`
 } 
 
@@ -53,8 +53,8 @@ exports.playVideo2 = (data) => {
 *🌐 Id do video:* ${data.resultado[0].videoId}
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
-*🤖 Bot: _SANDRO-BOT_*
-*🥼 Criador: _SANDRO_*
+*🤖 Bot: _KAIRO-MD_*
+*🥼 Criador: _KAUADEV_*
 *🖇 Link:* ${data.resultado[0].url}`
 } 
 
@@ -68,8 +68,8 @@ exports.playDocumentResult = (data) => {
 *🌐 Id do video:* ${data.resultado[0].videoId}
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
-*🤖 Bot: _SANDRO-BOT_*
-*🥼 Criador: _SANDRO_*
+*🤖 Bot: _KAIRO-MD_*
+*🥼 Criador: _KAUADEV_*
 *🖇 Link:* ${data.resultado[0].url}`
 }
 
@@ -83,18 +83,10 @@ exports.shazamResult = (data) => {
 *🌐 Id do video:* ${data.resultado[0].videoId}
 *📁 Formato:* Mp3
 *👀 Visualizações:* ${data.resultado[0].views}
-*🤖 Bot:_SANDRO-BOT_*
-*🥼 Criador: _SANDRO_*
+*🤖 Bot:_KAIRO-MD_*
+*🥼 Criador: _KAUADEV_*
 *🖇 Link:* ${data.resultado[0].url}`
 } 
-
-exports.playMixResult = (data) => {
-return `*Irei enviar 5 resultados, são eles:*\n–\n*1°* ${data.resultado[0].title}\n• *Duração:* ${data.resultado[0].timestamp} | ${data.resultado[0].seconds} segundos.\n–\n*2°* ${data.resultado[1].title}\n• *Duração:* ${data.resultado[1].timestamp} | ${data.resultado[1].seconds} segundos.\n–\n*3°* ${data.resultado[2].title}\n• *Duração:* ${data.resultado[2].timestamp} | ${data.resultado[2].seconds} segundos.\n–\n*4°* ${data.resultado[3].title}\n• *Duração:* ${data.resultado[3].timestamp} | ${data.resultado[3].seconds} segundos.\n–\n*5°* ${data.resultado[4].title}\n• *Duração:* ${data.resultado[4].timestamp} | ${data.resultado[4].seconds} segundos.`
-}
-
-exports.spotifyResult = (data, dataUrl, getPreview) => {
-return `• ID: *${data.resultado.tracksArray[0].id}*\n–\n• Nome da Música: *${data.resultado.tracksArray[0].title}*\n• Duração: *${dataUrl.resultado.duration}*\n• Nome do(s) Artista(s): *${data.resultado.tracksArray[0].artists.map(v => `${v.name}`).join(', ')}*\n• Url: *${data.resultado.tracksArray[0].url}*\n• Preview 30s: *${getPreview.data}*`
-}
 
 exports.syntaxDownloadMusic = () => {
 return `Por favor, insira o título de uma música ou vídeo.`

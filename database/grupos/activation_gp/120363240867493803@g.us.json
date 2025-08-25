@@ -8,8 +8,8 @@
     "antiaudio": false,
     "antisticker": false,
     "antidoc": false,
-    "antictt": false,
-    "antiloc": false,
+    "antictt": true,
+    "antiloc": true,
     "antilinkgp": true,
     "antilinkhard": false,
     "antifake": true,
@@ -26,7 +26,8 @@
       "6283853212050@s.whatsapp.net",
       "6283171975240@s.whatsapp.net",
       "6283839496312@s.whatsapp.net",
-      "6285219702266@s.whatsapp.net"
+      "6285219702266@s.whatsapp.net",
+      "556199452750@s.whatsapp.net"
     ],
     "advertir": [
       "556791347797@s.whatsapp.net",
@@ -81,8 +82,8 @@
       "palavras": []
     },
     "limitec": {
-      "active": false,
-      "quantidade": null
+      "active": true,
+      "quantidade": "400"
     },
     "wellcome": [
       {
@@ -92,8 +93,8 @@
       },
       {
         "bemvindo2": true,
-        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
-        "legendasaiu": "Tchau Até mais #numerodele#"
+        "legendabv": " Ola #numerodele# Seja bem-vindo(a) ao Grupo #nomedogp# meu Prefixo e  (#prefixo#)",
+        "legendasaiu": "‼️ #numerodele# Saiu do grupo #nomedogp# 🥹 Bom a diversão Continua 🎉🥳"
       }
     ],
     "simi1": false,

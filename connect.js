@@ -1,1 +1,377 @@
-const _0x3a1804=_0x2135;(function(_0x2f2f7c,_0x2add80){const _0x25b279=_0x2135,_0x497555=_0x2f2f7c();while(!![]){try{const _0x3d96f4=parseInt(_0x25b279(0x105))/0x1*(parseInt(_0x25b279(0xd5))/0x2)+parseInt(_0x25b279(0x108))/0x3*(-parseInt(_0x25b279(0xc3))/0x4)+parseInt(_0x25b279(0x10b))/0x5+-parseInt(_0x25b279(0xf7))/0x6+-parseInt(_0x25b279(0xe0))/0x7+-parseInt(_0x25b279(0xf9))/0x8+parseInt(_0x25b279(0xfe))/0x9;if(_0x3d96f4===_0x2add80)break;else _0x497555['push'](_0x497555['shift']());}catch(_0x3ef3f0){_0x497555['push'](_0x497555['shift']());}}}(_0x1f50,0x28885));const {'default':makeWASocket,useMultiFileAuthState,makeInMemoryStore,DisconnectReason,WAGroupMetadata,relayWAMessage,MediaPathMap,mentionedJid,processTime,MediaType,Browser,MessageType,Presence,Mimetype,Browsers,delay,fetchLatestBaileysVersion,MessageRetryMap,extractGroupMetadata,generateWAMessageFromContent,proto,otherOpts,makeCacheableSignalKeyStore}=require(_0x3a1804(0x11c)),{fs,Boom,axios,crypto,util,P,linkfy,request,cheerio,ms,exec,moment,time,hora,date,getBuffer,fetchJson,getBase64,upload,banner2,banner3,colors,getGroupAdmins}=require('./exports.js'),{mess,menu,anotacao,menudono,adms,menulogos,efeitos,menuprem,brincadeiras,infodono,alteradores,destrava,destrava2,tabela,conselhob,palavrasc,ban,joguinhodavelhajs,joguinhodavelhajs2,nescessario,setting,logoslink,premium,countMessage,sendVideoAsSticker,sendImageAsSticker,sendVideoAsSticker2,sendImageAsSticker2,sotoy,daily,comandos,limitefll,antispam,anotar,getRandom,NodeCache,insert,response,pushnames}=require('./exports.js'),{NomeDoBot,NickDono,prefix}=require('./settings/settings.json');var {fundo1,fundo2}=require(_0x3a1804(0x12b));function _0x2135(_0x3fa4e3,_0x375d40){const _0x1f50a2=_0x1f50();return _0x2135=function(_0x2135dc,_0x391dad){_0x2135dc=_0x2135dc-0xb1;let _0x35decf=_0x1f50a2[_0x2135dc];return _0x35decf;},_0x2135(_0x3fa4e3,_0x375d40);}const sleep=async _0x3c25f0=>{return new Promise(_0x38eb18=>setTimeout(_0x38eb18,_0x3c25f0));};function DLT_FL(_0x52faa3){const _0x2c3bf9=_0x3a1804;try{fs[_0x2c3bf9(0xca)](_0x52faa3);}catch(_0x4e7d51){}}const kontol_info2=console['info'];console[_0x3a1804(0xc2)]=function(){const _0x1cef2d=_0x3a1804;if(!util[_0x1cef2d(0xd2)](...arguments)[_0x1cef2d(0xf2)](_0x1cef2d(0xfb)))return kontol_info2(...arguments);};const kontol_info1=console[_0x3a1804(0xc2)];function _0x1f50(){const _0x148405=['.json','\x20🟢\x20Kitsu\x20MD\x20conectado\x20com\x20sucesso!\x0a👨‍💻\x20Criado\x20por\x20Kauã\x20Dev,\x20referência\x20em\x20bots\x20profissionais.\x0a⚡\x20Estabilidade,\x20velocidade\x20e\x20inovação\x20em\x20cada\x20comando.\x0a✨\x20Enquanto\x20outros\x20caem,\x20o\x20Kitsu\x20MD\x20continua\x20firme\x20e\x20exclusivo.!','error','parse','apply','connection.update','multiprefix','createInterface','log','antifake','@whiskeysockets/baileys','#hora#','\x0aA\x20autenticação\x20foi\x20bem\x20sucedida!\x20Restart\x20necessário\x20para\x20estabilizar\x20a\x20conexão.','creds.update','match','data','#prefixo#','stdin','[KITSU\x20MD]\x20RECONECTANDO\x20/\x20INICIANDO\x20-\x20','[Error:\x20408]\x20-\x20Conexão\x20fraca,\x20mais\x20vc\x20em\x20e\x20essa\x20sua\x20net\x20movida\x20a\x20carvão...','prefixos','desc','sendPresenceUpdate','https://telegra.ph/file/6ca032835ed7a16748b6f.jpg','add','./settings/links_img.json','stringify','messages.upsert','statusCode','legendabv','creds','yellow','participants','startsWith','available','&apitoken=LucasMod','wellcome','fatal','groupMetadata','Falha\x20ao\x20solicitar\x20o\x20código\x20de\x20registro.\x20Por\x20favor,\x20tente\x20novamente.\x0a','authState','grey','usuário(a)','Você\x20precisará\x20de\x20um\x202°\x20celular,\x20para\x20tirar\x20foto\x20do\x20qr-code,\x20para\x20depois\x20escanear\x20a\x20foto\x20que\x20tirou..','catch','info','248yLNTaD','group-participants.update','sendMessage','action','&perfil=','groupParticipantsUpdate','argv','unlinkSync','\x0a•\x20Insira\x20no\x20parâmetro\x20o\x20número\x20de\x20telefone\x20que\x20você\x20deseja\x20conectar\x20o\x20bot:\x20','bemvindo2','@s.whatsapp.net','http://br1.bluidhoster.tech:8943/goodbye?nome=','\x20]\x20Canal:\x20KX\x20API','awesome-phonenumber','[Error:\x20428]\x20-\x20Conexão\x20caiu,\x20irei\x20ligar\x20novamente,\x20se\x20continuar\x20com\x20este\x20erro,\x20provavelmente\x20sua\x20internet\x20está\x20caindo\x20constantemente...','format','https://tinyurl.com/api-create.php?url=','close','2RuKTFv','writeFileSync','process','[CONEXÃO\x20CLOSED]\x20-\x20A\x20conexão\x20entre\x20o\x20WhatsApp\x20foi\x20fechada,\x20por\x20motivos\x20de:\x20','#numerobot#','connecting','endsWith','subject','nick','indexOf','#descrição#','399070ZWhMBn','•\x20Código\x20para\x20conectar\x20o\x20bot\x20e\x20desfrutar\x20de\x20suas\x20imensas\x20funcionalidades:\x20','legendasaiu','#numerodele#','#nomedogp#','stdout','@c.us','cd\x20database\x20&&\x20rm\x20-rf\x20qr-code','requestPairingCode','Removing\x20old\x20closed\x20session:\x20SessionEntry\x20{','some','@g.us','Olha\x20quem\x20deu\x20as\x20cara\x20por\x20aqui,\x20sente\x20o\x20poder\x20do\x20ban\x20cabaço...','bemvindo1','existsSync','string','user','profilePictureUrl','includes','&grupo=','green','Another\x20forbidden\x20string','&fundo=','1888962OFdApi','image','2023680RxQqHq','get','Closing\x20session:\x20SessionEntry','https://tinyurl.com/yx93l6da','updateProfileStatus','5980302eiAiiZ','./database/grupos/activation_gp/','A\x20autenticação\x20com\x20WhatsApp\x20Web\x20falhou!\x20Por\x20favor,\x20reinicie\x20e\x20realize\x20a\x20autenticação\x20novamente.','legenda_estrangeiro','prefix','Ocorreu\x20um\x20erro\x20ao\x20inicializar\x20o\x20bot:\x20','[Error:\x20503]\x20-\x20Ocorreu\x20um\x20erro\x20desconhecido\x20ao\x20executar\x20o\x20bot\x20novamente\x20ou\x20sua\x20primeira\x20inicialização.','108901aKqYES','remove','https://telegra.ph/file/24fa902ead26340f3df2c.png','7509fpPQGX','Chrome\x20(Linux)','split','863125gvEtHa','replace','gray','.jpg','Está\x20tendo\x20um\x20pequeno\x20conflito,\x20se\x20isso\x20aparecer\x20mais\x20de\x204\x20vez,\x20creio\x20que\x20há\x20uma\x20outra\x20sessão\x20aberta,\x20ou\x20o\x20bot\x20ligado\x20em\x20outro\x20lugar,\x20caso\x20contrário\x20ignore...','registered','./sandro.js'];_0x1f50=function(){return _0x148405;};return _0x1f50();}console[_0x3a1804(0xc2)]=function(){const _0x25ba41=_0x3a1804;if(!util[_0x25ba41(0xd2)](...arguments)['includes']('Removing\x20old\x20closed\x20session:\x20SessionEntry\x20{}'))return kontol_info1(...arguments);};const msgRetryCounterCache=new NodeCache(),readline=require('readline'),pairingCode=process[_0x3a1804(0xc9)]['includes']('sim'),rl=readline[_0x3a1804(0x119)]({'input':process[_0x3a1804(0x123)],'output':process[_0x3a1804(0xe5)]}),question=_0x5035a7=>new Promise(_0x1535aa=>rl['question'](_0x5035a7,_0x1535aa));async function iniciarsandro(){const _0x5c102b=_0x3a1804;var _0x35cef3='./qr-code';const {state:_0x32a406,saveCreds:_0x224b26}=await useMultiFileAuthState(_0x35cef3),{version:_0x21e741,isLatest:_0x5d1c17}=await fetchLatestBaileysVersion(),_0x433a32=console[_0x5c102b(0xc2)];console[_0x5c102b(0xc2)]=function(){const _0x4423e8=_0x5c102b,_0xd579c7=util[_0x4423e8(0xd2)](...arguments),_0x4672ee=[_0x4423e8(0xfb),_0x4423e8(0xe9),_0x4423e8(0xf5),'Closing\x20stale\x20open\x20session\x20for\x20new\x20outgoing\x20prekey\x20bundle'];if(_0x4672ee[_0x4423e8(0xea)](_0x44066a=>_0xd579c7[_0x4423e8(0xf2)](_0x44066a)))return;_0x433a32[_0x4423e8(0x116)](console,arguments);};const _0x403be0=makeWASocket({'version':_0x21e741,'auth':_0x32a406,'syncFullHistory':!![],'printQRInTerminal':!pairingCode,'qrTimeout':0x2bf20,'logger':P({'level':_0x5c102b(0xba)}),'browser':[_0x5c102b(0x109),'',''],'msgRetryCounterCache':msgRetryCounterCache,'connectTimeoutMs':0xea60,'defaultQueryTimeoutMs':0x0,'keepAliveIntervalMs':0x2710,'emitOwnEvents':!![],'fireInitQueries':!![],'generateHighQualityLinkPreview':!![],'syncFullHistory':!![],'markOnlineOnConnect':!![],'patchMessageBeforeSending':_0x252ee1=>{const _0x5bb9dc=!!_0x252ee1?.['interactiveMessage'];return _0x5bb9dc&&(_0x252ee1={'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadataVersion':0x2,'deviceListMetadata':{}},..._0x252ee1}}}),_0x252ee1;}}),_0x4c3f5f=require(_0x5c102b(0xd0));if(pairingCode&&!_0x403be0[_0x5c102b(0xbd)][_0x5c102b(0xb3)][_0x5c102b(0x110)])try{let _0x52927a=await question(''+colors['gray']('Exemplo\x20do\x20número\x20para\x20realizar\x20a\x20conexão\x20do\x20bot:\x20+55\x2075\x209999999999.\x20(Coloque\x20do\x20jeito\x20que\x20está\x20no\x20WhatsApp)')+colors[_0x5c102b(0xb4)](_0x5c102b(0xcb)));_0x52927a=_0x52927a[_0x5c102b(0x10c)](/[^0-9]/g,'');let _0x2e8de1=await _0x403be0[_0x5c102b(0xe8)](_0x52927a);_0x2e8de1=_0x2e8de1?.[_0x5c102b(0x120)](/.{1,4}/g)?.['join']('-')||_0x2e8de1,console['log'](''+colors[_0x5c102b(0xb4)](_0x5c102b(0xe1))+colors['white'](_0x2e8de1)),rl[_0x5c102b(0xd4)]();}catch(_0x1aa10b){console[_0x5c102b(0x114)](_0x5c102b(0xbc),_0x1aa10b);}_0x403be0['ev'][_0x5c102b(0xd7)](async _0x38a7da=>{const _0x4406dd=_0x5c102b;if(_0x38a7da[_0x4406dd(0xc4)])try{var _0x55ae16=_0x38a7da[_0x4406dd(0xc4)];if(!fs[_0x4406dd(0xee)](_0x4406dd(0xff)+_0x55ae16['id']+_0x4406dd(0x112)))return;var _0x7cd3ea=JSON[_0x4406dd(0x115)](fs['readFileSync']('./database/grupos/activation_gp/'+_0x55ae16['id']+_0x4406dd(0x112)));const _0x4eda2c=_0x5355e3=>{const _0x378643=_0x4406dd;return ps=_0x5355e3['includes'](_0x378643(0xcd))?_0x5355e3:_0x5355e3['replace'](new RegExp('[()+-/\x20+/]','gi'),'')+_0x378643(0xcd),returnPush=JSON[_0x378643(0x12c)](pushnames)[_0x378643(0xf2)](ps)?pushnames[pushnames['map'](_0x3342db=>_0x3342db['id'])[_0x378643(0xde)](ps)][_0x378643(0xdd)]:_0x378643(0xbf),returnPush;};if(_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0xb6)](_0x403be0[_0x4406dd(0xf0)]['id'][_0x4406dd(0x10a)](':')[0x0]))return;try{var _0x4745b4=await _0x403be0[_0x4406dd(0xbb)](_0x55ae16['id']);}catch(_0x2813ea){return;}const _0x1ce0d0=_0x4745b4['id'][_0x4406dd(0xdb)](_0x4406dd(0xeb));try{var _0xcdd22c=_0x1ce0d0?await _0x403be0['groupMetadata'](_0x55ae16['id']):'';}catch(_0x57d988){return;}const _0x2d0055=_0x1ce0d0?_0xcdd22c[_0x4406dd(0xb5)]:'',_0x2c524f=_0x1ce0d0?getGroupAdmins(_0x2d0055):'';if(_0x55ae16[_0x4406dd(0xc6)]==_0x4406dd(0x12a)){num=_0x55ae16[_0x4406dd(0xb5)][0x0];if(nescessario['listanegraG'][_0x4406dd(0xf2)](num)){await _0x403be0[_0x4406dd(0xc5)](_0xcdd22c['id'],{'text':'Olha\x20quem\x20deu\x20as\x20cara\x20por\x20aqui,\x20sente\x20o\x20poder\x20do\x20ban...'}),_0x403be0[_0x4406dd(0xc8)](_0xcdd22c['id'],[_0x55ae16[_0x4406dd(0xb5)][0x0]],'remove');return;}}_0x55ae16[_0x4406dd(0xc6)]==_0x4406dd(0x106)&&(num=_0x55ae16[_0x4406dd(0xb5)][0x0]);_0x55ae16['action']==_0x4406dd(0x12a)&&_0x7cd3ea[0x0]['listanegra']['includes'](_0x55ae16['participants'][0x0])&&(await _0x403be0[_0x4406dd(0xc5)](_0xcdd22c['id'],{'text':_0x4406dd(0xec)}),_0x403be0[_0x4406dd(0xc8)](_0xcdd22c['id'],[_0x55ae16['participants'][0x0]],'remove'));_0x7cd3ea[0x0][_0x4406dd(0x11b)]&&_0x55ae16[_0x4406dd(0xc6)]===_0x4406dd(0x12a)&&!_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0xb6)](0x37)&&(_0x7cd3ea[0x0][_0x4406dd(0x101)]!='0'&&await _0x403be0[_0x4406dd(0xc5)](_0xcdd22c['id'],{'text':_0x7cd3ea[0x0][_0x4406dd(0x101)]}),setTimeout(async()=>{const _0x2e9b2b=_0x4406dd;_0x403be0['groupParticipantsUpdate'](_0xcdd22c['id'],[_0x55ae16[_0x2e9b2b(0xb5)][0x0]],_0x2e9b2b(0x106));},0x3e8));if(!_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x1][_0x4406dd(0xcc)]&&!_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x0][_0x4406dd(0xed)])return;try{var _0x5ba75d=_0x1ce0d0?await _0x403be0['groupMetadata'](_0x55ae16['id']):'';}catch(_0x2f224e){return;}const _0x22782a=_0x7cd3ea[0x0]['wellcome'][0x0][_0x4406dd(0xb2)]!=null?!![]:![],_0x8e3e6b=_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x0][_0x4406dd(0xe2)]!=0x0?!![]:![],_0x2a6d55=_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x1][_0x4406dd(0xb2)]!=null?!![]:![],_0x29f746=_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x1][_0x4406dd(0xe2)]!=0x0?!![]:![],_0x549019=await _0x5ba75d[_0x4406dd(0x127)];if(_0x7cd3ea[0x0][_0x4406dd(0x11b)]==!![]&&!_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0xb6)](0x37))return;if(_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x0][_0x4406dd(0xed)]==!![]){try{ppimg=await _0x403be0[_0x4406dd(0xf1)](_0x55ae16['participants'][0x0]);}catch(_0x3432f4){ppimg=_0x4406dd(0x107);}shortpc=await axios[_0x4406dd(0xfa)](_0x4406dd(0xd3)+ppimg);try{ppgp=await _0x403be0['profilePictureUrl'](_0x5ba75d['id']);}catch(_0x32a3a9){ppgp=_0x4406dd(0x107);}ppg=await axios['get'](_0x4406dd(0xd3)+ppgp);try{ppuser=await _0x403be0['profilePictureUrl'](from,_0x4406dd(0xf8));}catch{ppuser='https://tinyurl.com/yx93l6da';}try{ppgroup=await _0x403be0[_0x4406dd(0xf1)](from,'image');}catch{ppgroup=_0x4406dd(0xfc);}try{var _0x3d56f1=await _0x403be0[_0x4406dd(0xf1)](from,_0x4406dd(0xf8));}catch{var _0x3d56f1=_0x4406dd(0x129);}ppgrupo=await axios[_0x4406dd(0xfa)](_0x4406dd(0xd3)+_0x3d56f1);if(_0x55ae16['action']==='add'){_0x22782a?teks=_0x7cd3ea[0x0]['wellcome'][0x0][_0x4406dd(0xb2)][_0x4406dd(0x10c)](_0x4406dd(0x11d),time)[_0x4406dd(0x10c)]('#nomedogp#',_0x5ba75d[_0x4406dd(0xdc)])[_0x4406dd(0x10c)](_0x4406dd(0xe3),'@'+_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0x10a)]('@')[0x0])[_0x4406dd(0x10c)]('#numerobot#',_0x403be0['user']['id'])[_0x4406dd(0x10c)](_0x4406dd(0x122),_0x7cd3ea[0x0][_0x4406dd(0x118)]==!![]?_0x7cd3ea[0x0][_0x4406dd(0x126)][0x0]:setting['prefix'])[_0x4406dd(0x10c)]('#descrição#',_0x549019):teks=welcome(_0x55ae16[_0x4406dd(0xb5)][0x0]['split']('@')[0x0],_0x5ba75d[_0x4406dd(0xdc)]);let _0x509ad0=await getBuffer(ppimg);ran=getRandom('.jpg'),await fs[_0x4406dd(0xd6)](ran,_0x509ad0),_0x403be0[_0x4406dd(0xc5)](_0x5ba75d['id'],{'image':{'url':'http://br1.bluidhoster.tech:8943/welcome?&nome='+_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0x10a)]('@')[0x0]+_0x4406dd(0xc7)+shortpc[_0x4406dd(0x121)]+'&fundo='+fundo1+_0x4406dd(0xf3)+encodeURI(_0x5ba75d[_0x4406dd(0xdc)])+'&apitoken=LucasMod'},'mentions':_0x55ae16[_0x4406dd(0xb5)],'caption':teks}),DLT_FL(ran);}else{if(_0x55ae16[_0x4406dd(0xc6)]===_0x4406dd(0x106)){_0x52590b=_0x55ae16[_0x4406dd(0xb5)][0x0];try{ppimg=await _0x403be0[_0x4406dd(0xf1)](_0x52590b[_0x4406dd(0x10a)]('@')[0x0]+_0x4406dd(0xe6));}catch(_0x32ea3d){ppimg='https://telegra.ph/file/24fa902ead26340f3df2c.png';}_0x8e3e6b?teks=_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x0]['legendasaiu'][_0x4406dd(0x10c)]('#hora#',time)[_0x4406dd(0x10c)](_0x4406dd(0xe4),_0x5ba75d[_0x4406dd(0xdc)])[_0x4406dd(0x10c)](_0x4406dd(0xe3),_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0x10a)]('@')[0x0])['replace'](_0x4406dd(0xd9),_0x403be0[_0x4406dd(0xf0)]['id'])['replace'](_0x4406dd(0x122),_0x7cd3ea[0x0][_0x4406dd(0x118)]==!![]?_0x7cd3ea[0x0]['prefixos'][0x0]:setting[_0x4406dd(0x102)])[_0x4406dd(0x10c)](_0x4406dd(0xdf),_0x549019):teks=bye(_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0x10a)]('@')[0x0]);let _0x20b5d4=await getBuffer(ppimg);ran=getRandom(_0x4406dd(0x10e)),fs['writeFileSync'](ran,_0x20b5d4),_0x403be0[_0x4406dd(0xc5)](_0x5ba75d['id'],{'image':{'url':_0x4406dd(0xce)+_0x55ae16[_0x4406dd(0xb5)][0x0][_0x4406dd(0x10a)]('@')[0x0]+_0x4406dd(0xc7)+shortpc['data']+_0x4406dd(0xf6)+fundo2+'&grupo='+encodeURI(_0x5ba75d[_0x4406dd(0xdc)])+_0x4406dd(0xb8)},'caption':teks,'mentions':_0x55ae16[_0x4406dd(0xb5)]}),DLT_FL(ran);}}}if(_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x1][_0x4406dd(0xcc)]==!![]){if(_0x55ae16[_0x4406dd(0xc6)]===_0x4406dd(0x12a))_0x2a6d55?teks=_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x1][_0x4406dd(0xb2)][_0x4406dd(0x10c)](_0x4406dd(0x11d),time)[_0x4406dd(0x10c)](_0x4406dd(0xe4),_0x5ba75d['subject'])[_0x4406dd(0x10c)](_0x4406dd(0xe3),_0x55ae16[_0x4406dd(0xb5)][0x0]['split']('@')[0x0])[_0x4406dd(0x10c)](_0x4406dd(0xd9),_0x403be0['user']['id'])[_0x4406dd(0x10c)](_0x4406dd(0x122),_0x7cd3ea[0x0][_0x4406dd(0x118)]==!![]?_0x7cd3ea[0x0][_0x4406dd(0x126)][0x0]:setting['prefix'])[_0x4406dd(0x10c)](_0x4406dd(0xdf),_0x549019):teks=welcome2(_0x55ae16['participants'][0x0][_0x4406dd(0x10a)]('@')[0x0],_0x5ba75d[_0x4406dd(0xdc)]),_0x403be0[_0x4406dd(0xc5)](_0x5ba75d['id'],{'text':teks,'mentions':_0x55ae16[_0x4406dd(0xb5)]});else{if(_0x55ae16['action']===_0x4406dd(0x106)){var _0x52590b=_0x55ae16[_0x4406dd(0xb5)][0x0];_0x29f746?teks=_0x7cd3ea[0x0][_0x4406dd(0xb9)][0x1][_0x4406dd(0xe2)][_0x4406dd(0x10c)](_0x4406dd(0x11d),time)[_0x4406dd(0x10c)]('#nomedogp#',_0x5ba75d[_0x4406dd(0xdc)])[_0x4406dd(0x10c)](_0x4406dd(0xe3),_0x52590b[_0x4406dd(0x10a)]('@')[0x0])[_0x4406dd(0x10c)](_0x4406dd(0xd9),_0x403be0[_0x4406dd(0xf0)]['id'])[_0x4406dd(0x10c)](_0x4406dd(0x122),_0x7cd3ea[0x0][_0x4406dd(0x118)]==!![]?_0x7cd3ea[0x0][_0x4406dd(0x126)][0x0]:setting[_0x4406dd(0x102)])['replace'](_0x4406dd(0xdf),_0x549019):teks=bye2(_0x52590b[_0x4406dd(0x10a)]('@')[0x0]),_0x403be0[_0x4406dd(0xc5)](_0x5ba75d['id'],{'text':teks,'mentions':_0x55ae16['participants']});}}}}catch(_0x4cb721){console['log'](_0x4cb721);}if(_0x38a7da[_0x4406dd(0x12d)]){var _0x2cb445=_0x38a7da[_0x4406dd(0x12d)];require('./sandro.js')(_0x2cb445,_0x403be0);}if(_0x38a7da[_0x4406dd(0x117)]){const _0x3341d2=_0x38a7da[_0x4406dd(0x117)];var {connection:_0x27c228,lastDisconnect:_0x30d5f4,qr:_0x52e38d,isNewLogin:_0x5a861c,receivedPendingNotifications:_0x2e935c}=_0x3341d2;_0x52e38d&&console['log'](colors[_0x4406dd(0xf4)](_0x4406dd(0xc0)));const _0x29bbc6=new Boom(_0x30d5f4?.['error'])?.['output'][_0x4406dd(0xb1)];switch(_0x27c228){case _0x4406dd(0xd4):if(_0x29bbc6){if(_0x29bbc6==0x1ac)console[_0x4406dd(0x11a)](colors[_0x4406dd(0xb4)](_0x4406dd(0xd1)));else{if(_0x29bbc6==0x191)exec(_0x4406dd(0xe7)),console[_0x4406dd(0x11a)](colors['red'](_0x4406dd(0x100)));else{if(_0x29bbc6==0x203)console['log'](colors[_0x4406dd(0x10d)](_0x4406dd(0x11e)));else{if(_0x29bbc6==0x1b8)console[_0x4406dd(0x11a)](colors[_0x4406dd(0x10d)](_0x4406dd(0x10f)));else{if(_0x29bbc6==0x1f7)console[_0x4406dd(0x11a)](colors[_0x4406dd(0xbe)](_0x4406dd(0x104)));else{if(_0x29bbc6==0x1f6)console[_0x4406dd(0x11a)](colors[_0x4406dd(0xbe)]('[Error:\x20502]\x20-\x20A\x20conexão\x20com\x20a\x20internet,\x20está\x20querendo\x20cair...'));else _0x29bbc6==0x198?console[_0x4406dd(0x11a)](colors[_0x4406dd(0x10d)](_0x4406dd(0x125))):console['log'](colors[_0x4406dd(0xb4)](_0x4406dd(0xd8)+_0x30d5f4?.[_0x4406dd(0x114)]));}}}}};iniciarsandro();}break;case _0x4406dd(0xda):console['log'](colors[_0x4406dd(0xb4)](_0x4406dd(0x124)+date+'\x20'+time));break;case'open':console['log'](banner3[_0x4406dd(0xef)]),console[_0x4406dd(0x11a)](banner2['string']),console[_0x4406dd(0x11a)](colors['yellow'](NomeDoBot+'\x20conectado!\x20prefixo\x20[\x20'+prefix+_0x4406dd(0xcf))),await _0x403be0[_0x4406dd(0x128)](_0x4406dd(0xb7)),await _0x403be0[_0x4406dd(0xfd)](_0x4406dd(0x113));break;default:break;}}_0x38a7da[_0x4406dd(0x11f)]&&await _0x224b26();;require(_0x4406dd(0x111))(_0x403be0,_0x35cef3);});}iniciarsandro()[_0x3a1804(0xc1)](async _0x4fb160=>{const _0x476b5c=_0x3a1804;return console[_0x476b5c(0x11a)](colors['red'](_0x476b5c(0x103)+_0x4fb160));});
+/*｡☆✼★━━━━━━ATENÇÃO━━━━━━━━━━★✼
+𝙀𝙐 𝙎𝘼𝙉𝘿𝙍𝙊 𝘽𝙊𝙏 𝙉𝘼𝙊 𝙋𝙀𝙍𝙈𝙄𝙏𝙊 𝙍𝙀𝙑𝙀𝙉𝘿𝙀𝙍 𝙊𝙐 𝙍𝙀𝙋𝘼𝙎𝙎𝘼𝙍 𝙀𝙎𝙎𝘼 𝙑𝙀𝙍𝙎𝘼𝙊.
+｡☆✼★━━━━━━ATENÇÃO━━━━━━━━━━★✼*/
+
+const { 'default': makeWASocket, useMultiFileAuthState, makeInMemoryStore, DisconnectReason, WAGroupMetadata, relayWAMessage,	MediaPathMap, mentionedJid, processTime, MediaType, Browser, MessageType, Presence, Mimetype, Browsers, delay, fetchLatestBaileysVersion, MessageRetryMap, extractGroupMetadata, generateWAMessageFromContent, proto, otherOpts, makeCacheableSignalKeyStore } = require('@whiskeysockets/baileys');
+
+const { fs, Boom, axios, crypto, util, P, linkfy, request, cheerio, ms, exec, moment, time, hora, date, getBuffer, fetchJson, getBase64, upload, banner2, banner3, colors, getGroupAdmins } = require('./exports.js');
+
+const { mess, menu, anotacao, menudono, adms, menulogos, efeitos, menuprem, brincadeiras, infodono, alteradores, destrava, destrava2, tabela, conselhob, palavrasc, ban, joguinhodavelhajs, joguinhodavelhajs2, nescessario, setting, logoslink, premium, countMessage, sendVideoAsSticker, sendImageAsSticker, sendVideoAsSticker2, sendImageAsSticker2, sotoy, daily, comandos, limitefll, antispam, anotar, getRandom, NodeCache, insert, response, pushnames } = require('./exports.js');
+
+const { NomeDoBot, NickDono, prefix } = require("./settings/settings.json");
+
+var { fundo1, fundo2 } = require("./settings/links_img.json");
+
+const sleep = async (ms) => {return new Promise(resolve => setTimeout(resolve, ms))};
+
+function DLT_FL(file) {
+try { fs.unlinkSync(file) } catch (error) {}
+}
+
+const kontol_info2 = console.info;
+console.info = function() { 
+if(!util.format(...arguments).includes("Closing session: SessionEntry")){ 
+return kontol_info2(...arguments); 
+}};
+
+const kontol_info1 = console.info;
+console.info = function() { 
+if(!util.format(...arguments).includes("Removing old closed session: SessionEntry {}")){
+return kontol_info1(...arguments);
+}};
+
+const msgRetryCounterCache = new NodeCache();
+
+const readline = require("readline");
+
+const pairingCode = process.argv.includes("sim");
+const rl = readline.createInterface({input: process.stdin, output: process.stdout,});
+const question = (text) => new Promise((resolve) => rl.question(text, resolve));
+
+async function iniciarsandro() {
+var folderUserAuth = "./qr-code";
+
+const { state, saveCreds } = await useMultiFileAuthState(folderUserAuth);
+
+const { version, isLatest } = await fetchLatestBaileysVersion();
+
+const originalConsoleInfo = console.info;
+
+console.info = function () {
+const message = util.format(...arguments);
+const forbiddenStrings = [
+"Closing session: SessionEntry", "Removing old closed session: SessionEntry {", "Another forbidden string", "Closing stale open session for new outgoing prekey bundle"];
+if (forbiddenStrings.some(msg => message.includes(msg))) {
+return;
+}
+originalConsoleInfo.apply(console, arguments);
+};
+
+const sandro = makeWASocket({
+version,
+auth: state,
+syncFullHistory: true,
+printQRInTerminal: !pairingCode,
+qrTimeout: 180000,
+logger: P({ level: 'fatal' }),
+browser: ["Chrome (Linux)", "", ""],
+msgRetryCounterCache,
+connectTimeoutMs: 60000,
+defaultQueryTimeoutMs: 0,
+keepAliveIntervalMs: 10000,
+emitOwnEvents: true,
+fireInitQueries: true,
+generateHighQualityLinkPreview: true,
+syncFullHistory: true,
+markOnlineOnConnect: true,
+patchMessageBeforeSending: (message) => {
+const requiresPatch = !!(message?.interactiveMessage);
+if(requiresPatch) {
+message = {
+viewOnceMessage: {
+message: {
+messageContextInfo: {
+deviceListMetadataVersion: 2,
+deviceListMetadata: {}},
+...message}}}}
+return message}});
+
+const PhoneNumber = require('awesome-phonenumber')
+
+if (pairingCode && !sandro.authState.creds.registered) {
+try {
+let number = await question(`${colors.gray("Exemplo do número para realizar a conexão do bot: +55 31 7259-5934. (Coloque do jeito que está no WhatsApp)")}${colors.yellow("\n• Insira no parâmetro o número de telefone que você deseja conectar o bot: ")}`);
+number = number.replace(/[^0-9]/g, "");
+let code = await sandro.requestPairingCode(number);
+code = code?.match(/.{1,4}/g)?.join("-") || code;
+console.log(`${colors.yellow("• Código para conectar o bot e desfrutar de suas imensas funcionalidades: ")}` + colors.white(code));
+rl.close();
+} catch(error) {
+console.error('Falha ao solicitar o código de registro. Por favor, tente novamente.\n', error)
+}
+}
+
+sandro.ev.process(async(events) => {
+if(events["group-participants.update"]){
+try {
+var zero2 = events["group-participants.update"];
+if(!fs.existsSync(`./database/grupos/activation_gp/${zero2.id}.json`)) return
+var jsonGp = JSON.parse(fs.readFileSync(`./database/grupos/activation_gp/${zero2.id}.json`));
+
+const getName = (number) => {
+ps = number.includes(`@s.whatsapp.net`) ? number : number.replace(new RegExp("[()+-/ +/]", "gi"), "") + `@s.whatsapp.net`
+returnPush = JSON.stringify(pushnames).includes(ps) ? pushnames[pushnames.map(i => i.id).indexOf(ps)].nick : "usuário(a)"
+return returnPush /* Créditos: @Matheus */
+}
+
+if(zero2.participants[0].startsWith(sandro.user.id.split(':')[0])) return;
+
+try { var grpmdt = await sandro.groupMetadata(zero2.id) } catch (e) { return }
+
+const isGroup2 = grpmdt.id.endsWith('@g.us');
+
+try {
+var GroupMetadata_ = isGroup2 ? await sandro.groupMetadata(zero2.id): ""} catch (e) {return}
+
+const membros_ = isGroup2 ? GroupMetadata_.participants : '';
+const groupAdmins_ = isGroup2 ? getGroupAdmins(membros_) : '';
+
+if(zero2.action == 'add'){
+num = zero2.participants[0];
+if(nescessario.listanegraG.includes(num)){
+await sandro.sendMessage(GroupMetadata_.id,{text: 'Olha quem deu as cara por aqui, sente o poder do ban...'});
+sandro.groupParticipantsUpdate(GroupMetadata_.id, [zero2.participants[0]], 'remove');
+return;
+}}
+if(zero2.action == 'remove'){
+num = zero2.participants[0];
+}
+if(zero2.action == 'add' && jsonGp[0].listanegra.includes(zero2.participants[0])){
+await sandro.sendMessage(GroupMetadata_.id,{text: 'Olha quem deu as cara por aqui, sente o poder do ban cabaço...'});
+sandro.groupParticipantsUpdate(GroupMetadata_.id, [zero2.participants[0]], 'remove');
+}
+if(jsonGp[0].antifake && zero2.action === 'add' && !zero2.participants[0].startsWith(55)){
+if(jsonGp[0].legenda_estrangeiro != "0") {
+await sandro.sendMessage(GroupMetadata_.id, {text: jsonGp[0].legenda_estrangeiro});
+}
+setTimeout(async() => {
+sandro.groupParticipantsUpdate(GroupMetadata_.id, [zero2.participants[0]], 'remove');
+}, 1000);
+}
+
+// BEM VINDO - WELCOME! 🐢✨️
+if(!jsonGp[0].wellcome[1].bemvindo2 && !jsonGp[0].wellcome[0].bemvindo1) return;
+try {
+var mdata_2 = isGroup2 ? await sandro.groupMetadata(zero2.id): "";
+} catch (e) {
+return;
+}
+const isWelcomed = jsonGp[0].wellcome[0].legendabv != null ? true : false;
+const isByed = jsonGp[0].wellcome[0].legendasaiu != 0 ? true : false;
+const isWelcomed2 = jsonGp[0].wellcome[1].legendabv != null ? true : false;
+const isByed2 = jsonGp[0].wellcome[1].legendasaiu != 0 ? true : false;
+const groupDesc = await mdata_2.desc;
+if(jsonGp[0].antifake == true && !zero2.participants[0].startsWith(55)) return;
+if(jsonGp[0].wellcome[0].bemvindo1 == true){
+// PEGAR DESCRIÇÃO DO GRUPO! 
+try {
+ppimg = await sandro.profilePictureUrl(zero2.participants[0]);
+} catch(e) {
+ppimg = 'https://telegra.ph/file/24fa902ead26340f3df2c.png';
+}
+shortpc = await axios.get(`https://tinyurl.com/api-create.php?url=${ppimg}`);
+try {
+ppgp = await sandro.profilePictureUrl(mdata_2.id);
+} catch(e) {
+ppgp = 'https://telegra.ph/file/24fa902ead26340f3df2c.png';
+}
+ppg = await axios.get(`https://tinyurl.com/api-create.php?url=${ppgp}`);
+
+try {
+ppuser = await sandro.profilePictureUrl(from, 'image')
+} catch {
+ppuser = 'https://tinyurl.com/yx93l6da'
+}
+// pega foto do grupo
+try {
+ppgroup = await sandro.profilePictureUrl(from, 'image')
+} catch {
+ppgroup = 'https://tinyurl.com/yx93l6da'
+}
+
+try {
+var ppUrl = await sandro.profilePictureUrl(from, 'image')
+} catch {
+var ppUrl = `https://telegra.ph/file/6ca032835ed7a16748b6f.jpg`
+}
+ppgrupo = await axios.get(`https://tinyurl.com/api-create.php?url=${ppUrl}`);
+
+if(zero2.action === 'add') {
+
+if(isWelcomed) {
+teks = jsonGp[0].wellcome[0].legendabv
+.replace('#hora#', time)
+.replace('#nomedogp#', mdata_2.subject)
+.replace('#numerodele#', '@'+zero2.participants[0].split('@')[0])
+.replace('#numerobot#', sandro.user.id)
+.replace('#prefixo#', jsonGp[0].multiprefix == true ? jsonGp[0].prefixos[0] : setting.prefix)
+.replace('#descrição#', groupDesc);
+} else {
+teks = welcome(zero2.participants[0].split('@')[0], mdata_2.subject);
+}
+let buff = await getBuffer(ppimg);
+ran = getRandom('.jpg');
+await fs.writeFileSync(ran, buff);
+sandro.sendMessage(mdata_2.id, {image: {url:`http://br1.bluidhoster.tech:8943/welcome?&nome=${zero2.participants[0].split('@')[0]}&perfil=${shortpc.data}&fundo=${fundo1}&grupo=${encodeURI(mdata_2.subject)}&apitoken=LucasMod`},
+mentions: zero2.participants, caption: teks});
+DLT_FL(ran);
+} else if(zero2.action === 'remove') {
+mem = zero2.participants[0];
+try {
+ppimg = await sandro.profilePictureUrl(`${mem.split('@')[0]}@c.us`);
+} catch (e){
+ppimg = 'https://telegra.ph/file/24fa902ead26340f3df2c.png';
+}
+
+if(isByed) {
+teks = jsonGp[0].wellcome[0].legendasaiu
+.replace('#hora#', time)
+.replace('#nomedogp#', mdata_2.subject)
+.replace('#numerodele#', zero2.participants[0].split('@')[0])
+.replace('#numerobot#', sandro.user.id)
+.replace('#prefixo#', jsonGp[0].multiprefix == true ? jsonGp[0].prefixos[0] : setting.prefix)
+.replace('#descrição#', groupDesc);
+} else {
+teks = bye(zero2.participants[0].split('@')[0]);
+}
+
+let buff = await getBuffer(ppimg)
+ran = getRandom('.jpg')
+fs.writeFileSync(ran, buff)
+sandro.sendMessage(mdata_2.id, {image: {url:`http://br1.bluidhoster.tech:8943/goodbye?nome=${zero2.participants[0].split('@')[0]}&perfil=${shortpc.data}&fundo=${fundo2}&grupo=${encodeURI(mdata_2.subject)}&apitoken=LucasMod`}, caption: teks, mentions: zero2.participants})
+DLT_FL(ran)
+}
+}
+  
+if (jsonGp[0].wellcome[1].bemvindo2 == true) {
+  if (zero2.action === 'add') {
+    let teks;
+    if (isWelcomed2) {
+      teks = jsonGp[0].wellcome[1].legendabv
+        .replace('#hora#', time)
+        .replace('#nomedogp#', mdata_2.subject)
+        .replace('#numerodele#', zero2.participants[0].split('@')[0])
+        .replace('#numerobot#', sandro.user.id)
+        .replace('#prefixo#', jsonGp[0].multiprefix == true ? jsonGp[0].prefixos[0] : setting.prefix)
+        .replace('#descrição#', groupDesc);
+    } else {
+      teks = welcome2(zero2.participants[0].split('@')[0], mdata_2.subject);
+    }
+
+    const jidNovo = zero2.participants[0];
+    const userPhoto = await sandro.profilePictureUrl(jidNovo, 'image').catch(() => 'https://i.ibb.co/k2k7rv6V/sandrobot-1752772181582.jpg');
+    
+    // Recupera o nome da pessoa que entrou
+    const contato = await sandro.onWhatsApp(jidNovo);
+    const nomeUsuario = encodeURIComponent(contato[0]?.notify || jidNovo.split('@')[0]);
+
+    const grupo = encodeURIComponent(mdata_2.subject);
+
+    const imageUrl = `https://zero-two-apis.com.br/welcome?titulo=Bem-vindo&nome=${nomeUsuario}&perfil=${encodeURIComponent(userPhoto)}&fundo=https://i.ibb.co/VcrQxGGK/sandrobot-1752771185052.jpg&grupo=${grupo}`;
+
+    try {
+      await sandro.sendMessage(mdata_2.id, {
+        image: { url: imageUrl },
+        caption: teks,
+        mentions: zero2.participants
+      });
+    } catch (err) {
+      console.error('Erro ao carregar imagem da API, enviando apenas texto:', err.message);
+
+      await sandro.sendMessage(mdata_2.id, {
+        text: teks,
+        mentions: zero2.participants
+      });
+    }
+
+  } else if (zero2.action === 'remove') {
+    const mem = zero2.participants[0];
+    let teks;
+
+    if (isByed2) {
+      teks = jsonGp[0].wellcome[1].legendasaiu
+        .replace('#hora#', time)
+        .replace('#nomedogp#', mdata_2.subject)
+        .replace('#numerodele#', mem.split('@')[0])
+        .replace('#numerobot#', sandro.user.id)
+        .replace('#prefixo#', jsonGp[0].multiprefix == true ? jsonGp[0].prefixos[0] : setting.prefix)
+        .replace('#descrição#', groupDesc);
+    } else {
+      teks = bye2(mem.split('@')[0]);
+    }
+
+    sandro.sendMessage(mdata_2.id, {
+      text: teks,
+      mentions: zero2.participants
+    });
+  }
+}
+
+} catch (e) {
+console.log(e)
+}
+}
+
+if(events["messages.upsert"]) {
+var upsert = events["messages.upsert"]
+require("./sandro.js")(upsert, sandro)
+}
+
+if(events["connection.update"]) {
+const update = events["connection.update"]; 
+var { connection, lastDisconnect, qr, isNewLogin, receivedPendingNotifications } = update  
+if(qr) {
+  console.log(colors.green("Você precisará de um 2° celular, para tirar foto do qr-code, para depois escanear a foto que tirou.."))
+}  
+
+const shouldReconnect = new Boom(lastDisconnect?.error)?.output.statusCode
+
+switch (connection) {
+case 'close':
+if(shouldReconnect) {
+if(shouldReconnect == 428) {
+console.log(colors.yellow("[Error: 428] - Conexão caiu, irei ligar novamente, se continuar com este erro, provavelmente sua internet está caindo constantemente..."));
+} else if(shouldReconnect == 401) {
+exec("cd database && rm -rf qr-code")
+console.log(colors.red("A autenticação com WhatsApp Web falhou! Por favor, reinicie e realize a autenticação novamente."))
+} else if(shouldReconnect == 515) {
+console.log(colors.gray("\nA autenticação foi bem sucedida! Restart necessário para estabilizar a conexão."))
+} else if(shouldReconnect == 440) {
+console.log(colors.gray("Está tendo um pequeno conflito, se isso aparecer mais de 4 vez, creio que há uma outra sessão aberta, ou o bot ligado em outro lugar, caso contrário ignore..."))
+} else if(shouldReconnect == 503) {
+console.log(colors.grey("[Error: 503] - Ocorreu um erro desconhecido ao executar o bot novamente ou sua primeira inicialização."));
+} else if(shouldReconnect == 502) {
+console.log(colors.grey("[Error: 502] - A conexão com a internet, está querendo cair..."))
+} else if(shouldReconnect == 408) {
+console.log(colors.gray("[Error: 408] - Conexão fraca, mais vc em e essa sua net movida a carvão..."))
+} else {
+console.log(colors.yellow(`[CONEXÃO CLOSED] - A conexão entre o WhatsApp foi fechada, por motivos de: ${lastDisconnect?.error}`))
+};
+iniciarsandro();
+}
+break;
+
+case 'connecting':
+console.log(colors.yellow(`[SANDRO-BOT] RECONECTANDO / INICIANDO - ${date} ${time}`))
+break;
+
+
+case 'open':
+    console.log(banner3.string);   
+    console.log(banner2.string);  
+    console.log(colors.yellow(`${NomeDoBot} conectado! prefixo [ ${prefix} ] Canal: Sandro bot`));
+    await sandro.sendPresenceUpdate("available");
+    await sandro.updateProfileStatus(`Sandro-bot conectado!`);
+    break;
+
+default:
+break
+}}
+
+if(events["creds.update"]) {await saveCreds()};
+require("./sandro.js")(sandro, folderUserAuth);
+})}
+
+iniciarsandro().catch(async(error) => {
+   return console.log(colors.red("Ocorreu um erro ao inicializar o bot: " + error))
+})

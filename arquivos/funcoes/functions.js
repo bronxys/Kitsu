@@ -189,13 +189,13 @@ const getRandom = (ext) => {
 return `${Math.floor(Math.random() * 10000)}${ext}`;
 };
 
-const banner2 = cfonts.render((`KITSU MD | CRIADOR: KAUA DEV | CANAL: KITSU MD| GRUPO: KITSU MD `), {
+const banner2 = cfonts.render((`KAIRO MD | CRIADOR: KAUA DEV | CANAL: KX API | GRUPO:SUPORTE KX API`), {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']
 });
  
-const banner3 = cfonts.render((`KITSU|MD`), {
+const banner3 = cfonts.render((`KAIRO|MD `), {
   font: 'block',
   align: "center",
   gradient: ['red', 'magenta']
@@ -244,7 +244,7 @@ return `-c ${key}=${value}`
 }).concat(config.presets).filter(Boolean)
 }
 
-const authorname = "KITSU Multi-Device"
+const authorname = "KAIRO Multi-Device"
 const packname = "Criador: KAUA"
 
 const chyt = "557582599462@s.whatsapp.net";
